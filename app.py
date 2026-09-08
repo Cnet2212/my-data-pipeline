@@ -16,21 +16,21 @@ st.markdown('''
 
 @st.cache_data(ttl=60)
 def load_data() -> pd.DataFrame:
-    # Ưu tiên đọc data.json local (do crawler.py vừa tạo ra) để test nhanh,
-    # không bắt buộc phải setup Supabase ngay từ đầu.
+    # Prefer the local data.json (written by crawler.py) for quick local testing,
+    # so Supabase isn't a hard requirement just to try the dashboard.
     if os.path.exists('data.json'):
         with open('data.json', 'r', encoding='utf-8') as f:
             data = json.load(f)
         return pd.DataFrame(data)
 
-    # Nếu không có data.json, thử đọc từ Supabase
+    # Otherwise, fall back to Supabase
     try:
         from db import get_supabase_client
         supabase = get_supabase_client()
         response = supabase.table('products').select('*').execute()
         return pd.DataFrame(response.data)
     except Exception as e:
-        st.warning(f'Chưa có data.json và chưa kết nối được Supabase: {e}')
+        st.warning(f'No local data.json and could not connect to Supabase: {e}')
         return pd.DataFrame(columns=['title', 'price', 'category', 'in_stock'])
 
 
@@ -40,7 +40,7 @@ st.title('⚡ Enterprise Data Intelligence Pipeline')
 st.caption('Real Data Extraction from books.toscrape.com | $0 Infrastructure Cost')
 
 if df.empty:
-    st.info('Chưa có dữ liệu. Chạy `python crawler.py` trước để tạo data.json.')
+    st.info('No data yet. Run `python crawler.py` first to generate data.json.')
     st.stop()
 
 c1, c2, c3, c4 = st.columns(4)
