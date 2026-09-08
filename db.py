@@ -17,7 +17,9 @@ def get_supabase_client() -> Client:
 def save_products_to_db(products: list):
     try:
         supabase = get_supabase_client()
-        response = supabase.table('products').upsert(products).execute()
+        # on_conflict='title' tells Supabase which column identifies "the same record" —
+        # without it, every run just inserts new rows instead of updating existing ones.
+        response = supabase.table('products').upsert(products, on_conflict='title').execute()
         return response
     except Exception as e:
         print(f'⚠️ DB connection warning: {e}')
