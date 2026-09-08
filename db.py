@@ -1,0 +1,24 @@
+import os
+from supabase import create_client, Client
+
+SUPABASE_URL = os.getenv('SUPABASE_URL')
+SUPABASE_KEY = os.getenv('SUPABASE_KEY')
+
+
+def get_supabase_client() -> Client:
+    if not SUPABASE_URL or not SUPABASE_KEY:
+        raise RuntimeError(
+            'Chưa set biến môi trường SUPABASE_URL / SUPABASE_KEY. '
+            'Xem hướng dẫn set biến môi trường ở Giai đoạn 3.'
+        )
+    return create_client(SUPABASE_URL, SUPABASE_KEY)
+
+
+def save_products_to_db(products: list):
+    try:
+        supabase = get_supabase_client()
+        response = supabase.table('products').upsert(products).execute()
+        return response
+    except Exception as e:
+        print(f'⚠️ DB Connection Warning: {e}')
+        return None

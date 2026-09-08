@@ -1,0 +1,5 @@
+﻿venv/
+data.json
+.env.ps1
+__pycache__/
+*.pyc
