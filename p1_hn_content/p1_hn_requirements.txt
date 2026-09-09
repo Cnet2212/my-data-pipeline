@@ -1,0 +1,6 @@
+httpx
+pydantic
+supabase
+streamlit
+pandas
+plotly

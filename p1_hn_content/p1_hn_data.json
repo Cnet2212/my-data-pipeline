@@ -1,0 +1,902 @@
+[
+  {
+    "id": 49546964,
+    "title": "Trees use a \"muscle\", tension wood, to correct their posture",
+    "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
+    "score": 25,
+    "author": "mdp2021",
+    "num_comments": 1,
+    "posted_at": "2026-09-03T07:29:40+00:00"
+  },
+  {
+    "id": 49615537,
+    "title": "Muse – Meta’s personal AI agent",
+    "url": "https://ai.meta.com/muse/",
+    "score": 361,
+    "author": "yks",
+    "num_comments": 376,
+    "posted_at": "2026-09-08T19:25:00+00:00"
+  },
+  {
+    "id": 49617255,
+    "title": "How to build a printer",
+    "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+    "score": 183,
+    "author": "cat-whisperer",
+    "num_comments": 38,
+    "posted_at": "2026-09-08T21:22:11+00:00"
+  },
+  {
+    "id": 49617581,
+    "title": "Large language models develop novel social biases through adaptive exploration",
+    "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+    "score": 114,
+    "author": "paimapi",
+    "num_comments": 55,
+    "posted_at": "2026-09-08T21:47:38+00:00"
+  },
+  {
+    "id": 49611251,
+    "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+    "score": 508,
+    "author": "utiiiD",
+    "num_comments": 117,
+    "posted_at": "2026-09-08T14:55:45+00:00"
+  },
+  {
+    "id": 49619464,
+    "title": "27.5KB language-agnostic WebGPU syntax highlighter",
+    "url": "https://gpu-lexer.vercel.app/",
+    "score": 29,
+    "author": "bpierre",
+    "num_comments": 6,
+    "posted_at": "2026-09-09T01:14:50+00:00"
+  },
+  {
+    "id": 49579482,
+    "title": "An Accidental Blackboard",
+    "url": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
+    "score": 20,
+    "author": "saikatsg",
+    "num_comments": 6,
+    "posted_at": "2026-09-05T18:50:25+00:00"
+  },
+  {
+    "id": 49610181,
+    "title": "DaVinci Resolve 21.1",
+    "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+    "score": 366,
+    "author": "tosh",
+    "num_comments": 161,
+    "posted_at": "2026-09-08T13:36:53+00:00"
+  },
+  {
+    "id": 49613262,
+    "title": "On the Navier–Stokes Millennium Prize Problem",
+    "url": "https://openai.com/index/navier-stokes-solution/",
+    "score": 1172,
+    "author": "tedsanders",
+    "num_comments": 1005,
+    "posted_at": "2026-09-08T17:13:21+00:00"
+  },
+  {
+    "id": 49616968,
+    "title": "Tao: Open math problems being non-renewably mined by AI",
+    "url": "https://mathstodon.xyz/@tao/117237320796901560",
+    "score": 210,
+    "author": "_alternator_",
+    "num_comments": 149,
+    "posted_at": "2026-09-08T21:00:52+00:00"
+  },
+  {
+    "id": 49611128,
+    "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+    "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+    "score": 223,
+    "author": "stared",
+    "num_comments": 110,
+    "posted_at": "2026-09-08T14:49:19+00:00"
+  },
+  {
+    "id": 49619639,
+    "title": "AI Responsibility – OpenAI and Anthropic",
+    "url": "https://twitter.com/hilbertspaess/status/2097476196791709843",
+    "score": 53,
+    "author": "getatme32",
+    "num_comments": 12,
+    "posted_at": "2026-09-09T01:32:49+00:00"
+  },
+  {
+    "id": 49610631,
+    "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+    "url": "https://github.com/ayghri/i-have-adhd",
+    "score": 342,
+    "author": "domhudson",
+    "num_comments": 264,
+    "posted_at": "2026-09-08T14:13:26+00:00"
+  },
+  {
+    "id": 49591112,
+    "title": "The Microeconomics of Artificial Intelligence (2025)",
+    "url": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence",
+    "score": 36,
+    "author": "neehao",
+    "num_comments": 18,
+    "posted_at": "2026-09-06T21:24:23+00:00"
+  },
+  {
+    "id": 49605915,
+    "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+    "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+    "score": 1364,
+    "author": "procedurecall",
+    "num_comments": 583,
+    "posted_at": "2026-09-08T05:42:28+00:00"
+  },
+  {
+    "id": 49616257,
+    "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+    "url": "https://github.com/argonautlabsai/deltafin",
+    "score": 223,
+    "author": "Argonautlabs",
+    "num_comments": 116,
+    "posted_at": "2026-09-08T20:07:55+00:00"
+  },
+  {
+    "id": 49619906,
+    "title": "Harvard study predicts most suicide attempts a week in advance",
+    "url": "https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance",
+    "score": 90,
+    "author": "jodacola",
+    "num_comments": 43,
+    "posted_at": "2026-09-09T02:07:13+00:00"
+  },
+  {
+    "id": 49598009,
+    "title": "Ask HN: 3.5 inch diskette read errors, would a period correct drive do better?",
+    "url": null,
+    "score": 20,
+    "author": "rietta",
+    "num_comments": 21,
+    "posted_at": "2026-09-07T13:09:44+00:00"
+  },
+  {
+    "id": 49618050,
+    "title": "A Topological Picture Book, Rendered",
+    "url": "https://e-infinity.space/picture-book/",
+    "score": 64,
+    "author": "mathgenius",
+    "num_comments": 8,
+    "posted_at": "2026-09-08T22:28:14+00:00"
+  },
+  {
+    "id": 49616272,
+    "title": "Animation in Bevy: The Big Picture",
+    "url": "https://glocq.com/en/blog/20260827/",
+    "score": 53,
+    "author": "ibobev",
+    "num_comments": 5,
+    "posted_at": "2026-09-08T20:08:44+00:00"
+  },
+  {
+    "id": 49613068,
+    "title": "Show HN: LLM Attention Visualization",
+    "url": "https://ishamf.dev/p/llm-attention-visualizer/",
+    "score": 138,
+    "author": "ifz",
+    "num_comments": 22,
+    "posted_at": "2026-09-08T16:59:41+00:00"
+  },
+  {
+    "id": 49598921,
+    "title": "Getting phpBB 1.4.4 working in Docker",
+    "url": "https://www.thran.uk/writ/devlog/2026/09/phpbb-144-in-docker.html",
+    "score": 29,
+    "author": "HeckFeck",
+    "num_comments": 19,
+    "posted_at": "2026-09-07T14:35:12+00:00"
+  },
+  {
+    "id": 49579443,
+    "title": "We built our house for LAN parties (2024)",
+    "url": "https://lanparty.house/",
+    "score": 444,
+    "author": "fittingopposite",
+    "num_comments": 318,
+    "posted_at": "2026-09-05T18:44:40+00:00"
+  },
+  {
+    "id": 49575914,
+    "title": "Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster",
+    "url": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
+    "score": 96,
+    "author": "metrofun",
+    "num_comments": 42,
+    "posted_at": "2026-09-05T12:32:06+00:00"
+  },
+  {
+    "id": 49600901,
+    "title": "The Helicopter with Radioactive Blades",
+    "url": "https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/",
+    "score": 156,
+    "author": "zdw",
+    "num_comments": 48,
+    "posted_at": "2026-09-07T17:44:33+00:00"
+  },
+  {
+    "id": 49616354,
+    "title": "Mercury 2.5",
+    "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+    "score": 134,
+    "author": "Topfi",
+    "num_comments": 18,
+    "posted_at": "2026-09-08T20:14:52+00:00"
+  },
+  {
+    "id": 49575766,
+    "title": "Implementation of GCC's Nested Functions (vs. C++ Lambdas)",
+    "url": "https://uecker.codeberg.page/2026-09-05.html",
+    "score": 61,
+    "author": "uecker",
+    "num_comments": 9,
+    "posted_at": "2026-09-05T12:09:29+00:00"
+  },
+  {
+    "id": 49610059,
+    "title": "Show HN: Copperhead – Cursor for circuit boards",
+    "url": "https://copperhead.sh/",
+    "score": 213,
+    "author": "animeshchouhan",
+    "num_comments": 85,
+    "posted_at": "2026-09-08T13:26:45+00:00"
+  },
+  {
+    "id": 49562430,
+    "title": "Tracing np.add, all the way down",
+    "url": "https://blog.veitheller.de/numpy.html",
+    "score": 43,
+    "author": "luu",
+    "num_comments": 2,
+    "posted_at": "2026-09-04T09:42:29+00:00"
+  },
+  {
+    "id": 49599825,
+    "title": "Reverse Engineering an ASIC",
+    "url": "https://kjartanvandriel.github.io/asic/",
+    "score": 42,
+    "author": "burekqueen",
+    "num_comments": 6,
+    "posted_at": "2026-09-07T16:02:02+00:00"
+  },
+  {
+    "id": 49591563,
+    "title": "The 92-Year-Old Mathematician and the Teenage Apprentice",
+    "url": "https://www.nytimes.com/2026/09/06/science/92-year-old-mathematician-apprentice.html",
+    "score": 153,
+    "author": "robinhouston",
+    "num_comments": 11,
+    "posted_at": "2026-09-06T22:27:27+00:00"
+  },
+  {
+    "id": 49612191,
+    "title": "C*: Unifying Programming and Verification in C (2025)",
+    "url": "https://arxiv.org/abs/2504.02246",
+    "score": 73,
+    "author": "rramadass",
+    "num_comments": 46,
+    "posted_at": "2026-09-08T15:56:56+00:00"
+  },
+  {
+    "id": 49609174,
+    "title": "FreeBSD 14.5-Release",
+    "url": "https://www.freebsd.org/releases/14.5R/announce/",
+    "score": 119,
+    "author": "joshcsimmons",
+    "num_comments": 24,
+    "posted_at": "2026-09-08T12:04:04+00:00"
+  },
+  {
+    "id": 49608023,
+    "title": "Getting your hands dirty is good for you",
+    "url": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
+    "score": 219,
+    "author": "HatchedLake721",
+    "num_comments": 184,
+    "posted_at": "2026-09-08T09:48:24+00:00"
+  },
+  {
+    "id": 49610641,
+    "title": "AlphaGenome Atlas predictive map of every DNA letter change in the human genome",
+    "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "score": 82,
+    "author": "fady0",
+    "num_comments": 11,
+    "posted_at": "2026-09-08T14:14:15+00:00"
+  },
+  {
+    "id": 49618633,
+    "title": "Embedding a bitmap font in your HyperCard stack",
+    "url": "https://www.leadedsolder.com/2026/09/08/hypercard-custom-fonts-in-resources.html",
+    "score": 7,
+    "author": "zdw",
+    "num_comments": 0,
+    "posted_at": "2026-09-08T23:30:11+00:00"
+  },
+  {
+    "id": 49611230,
+    "title": "ZX Spectrum: Experimenting with 1-Bit Sound",
+    "url": "https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/",
+    "score": 93,
+    "author": "ibobev",
+    "num_comments": 30,
+    "posted_at": "2026-09-08T14:54:29+00:00"
+  },
+  {
+    "id": 49612818,
+    "title": "Connecting the machines",
+    "url": "https://herdr.dev/blog/connecting-the-machines/",
+    "score": 78,
+    "author": "collinmanderson",
+    "num_comments": 31,
+    "posted_at": "2026-09-08T16:43:55+00:00"
+  },
+  {
+    "id": 49611051,
+    "title": "The two Christian saints who are the Buddha",
+    "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
+    "score": 224,
+    "author": "surprisetalk",
+    "num_comments": 170,
+    "posted_at": "2026-09-08T14:44:25+00:00"
+  },
+  {
+    "id": 49614101,
+    "title": "GrapheneOS on AI Usage",
+    "url": "https://grapheneos.social/@GrapheneOS/117236529351603001",
+    "score": 28,
+    "author": "garo-pro",
+    "num_comments": 0,
+    "posted_at": "2026-09-08T18:00:58+00:00"
+  },
+  {
+    "id": 49615139,
+    "title": "Function Arguments Are Not Function Colors",
+    "url": "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
+    "score": 41,
+    "author": "ingve",
+    "num_comments": 25,
+    "posted_at": "2026-09-08T19:04:26+00:00"
+  },
+  {
+    "id": 49610900,
+    "title": "Paramount Caught Using 'Astroturf' Group to Drum Up Fake Support for Merger",
+    "url": "https://www.techdirt.com/2026/09/08/paramount-caught-using-astroturf-group-to-drum-up-fake-support-for-merger/",
+    "score": 348,
+    "author": "hn_acker",
+    "num_comments": 117,
+    "posted_at": "2026-09-08T14:33:52+00:00"
+  },
+  {
+    "id": 49607991,
+    "title": "Antiquated HTML Snippets and Artefacts",
+    "url": "https://vale.rocks/posts/html-relics",
+    "score": 228,
+    "author": "patadune",
+    "num_comments": 81,
+    "posted_at": "2026-09-08T09:43:14+00:00"
+  },
+  {
+    "id": 49619949,
+    "title": "Iran says it captured US submarine drone in Strait of Hormuz",
+    "url": "https://www.reuters.com/world/middle-east/iran-says-it-captured-us-submarine-drone-strait-hormuz-2026-09-08/",
+    "score": 26,
+    "author": "harambae",
+    "num_comments": 3,
+    "posted_at": "2026-09-09T02:12:05+00:00"
+  },
+  {
+    "id": 49605767,
+    "title": "Mistral raises €3B",
+    "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+    "score": 812,
+    "author": "kuberwastaken",
+    "num_comments": 568,
+    "posted_at": "2026-09-08T05:06:23+00:00"
+  },
+  {
+    "id": 49619679,
+    "title": "Space Force Uniform Is Inspired by Quasi-Satirical Film 'Starship Troopers'",
+    "url": "https://deadline.com/2026/09/space-force-uniform-starship-troopers-1237070485/",
+    "score": 16,
+    "author": "alex_young",
+    "num_comments": 9,
+    "posted_at": "2026-09-09T01:36:43+00:00"
+  },
+  {
+    "id": 49611549,
+    "title": "Disappointed Optimists",
+    "url": "https://cwodtke.com/disappointed-optimists/",
+    "score": 61,
+    "author": "adrianhoward",
+    "num_comments": 6,
+    "posted_at": "2026-09-08T15:13:56+00:00"
+  },
+  {
+    "id": 49619227,
+    "title": "I resigned from Anthropic today",
+    "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
+    "score": 146,
+    "author": "yurivish",
+    "num_comments": 178,
+    "posted_at": "2026-09-09T00:40:40+00:00"
+  },
+  {
+    "id": 49618447,
+    "title": "Flock worker calls police on investigator filming public camera installation",
+    "url": "https://www.atlantanewsfirst.com/2026/09/08/flock-worker-calls-police-anf-chief-investigator-filming-public-camera-installation/",
+    "score": 32,
+    "author": "driverdan",
+    "num_comments": 8,
+    "posted_at": "2026-09-08T23:11:18+00:00"
+  },
+  {
+    "id": 49618175,
+    "title": "LG TV shown scanning LAN for third-party phones and other devices",
+    "url": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
+    "score": 41,
+    "author": "Bender",
+    "num_comments": 2,
+    "posted_at": "2026-09-08T22:42:59+00:00"
+  },
+  {
+    "id": 49586667,
+    "title": "Extracting Steering Vectors from J space",
+    "url": "https://darshanmakwana412.github.io/2026/09/extracting-steering-vectors-from-j-space/",
+    "score": 60,
+    "author": "martianvoid",
+    "num_comments": 15,
+    "posted_at": "2026-09-06T14:03:24+00:00"
+  },
+  {
+    "id": 49610988,
+    "title": "DHS 'Predictive Policing' Unit Is Analyzing Americans' Financial Habits",
+    "url": "https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/",
+    "score": 333,
+    "author": "abraham",
+    "num_comments": 208,
+    "posted_at": "2026-09-08T14:40:30+00:00"
+  },
+  {
+    "id": 49618955,
+    "title": "Show HN: VolAnti – Open-source acoustic detector for fibre-optic FPV drones",
+    "url": "https://github.com/agamrossen/VolAnti",
+    "score": 4,
+    "author": "agamrossen",
+    "num_comments": 0,
+    "posted_at": "2026-09-09T00:08:13+00:00"
+  },
+  {
+    "id": 49613312,
+    "title": "Cognition (Devin) raises $2B at $48B valuation",
+    "url": "https://cognition.com/blog/series-e",
+    "score": 21,
+    "author": "meco",
+    "num_comments": 6,
+    "posted_at": "2026-09-08T17:16:20+00:00"
+  },
+  {
+    "id": 49574941,
+    "title": "Picolibrary: A Small Press",
+    "url": "https://novalis.org/blog/2026-08-31-picolibrary-a-very-small-press.html",
+    "score": 61,
+    "author": "luu",
+    "num_comments": 13,
+    "posted_at": "2026-09-05T09:54:15+00:00"
+  },
+  {
+    "id": 49605246,
+    "title": "How well do agents use test/verification techniques?",
+    "url": "https://danluu.com/agentic-testing/",
+    "score": 177,
+    "author": "vinhnx",
+    "num_comments": 64,
+    "posted_at": "2026-09-08T02:58:16+00:00"
+  },
+  {
+    "id": 49604870,
+    "title": "There's a new \"Google Jail\" for independent wikis",
+    "url": "https://weirdgloop.org/blog/google-jail",
+    "score": 528,
+    "author": "pizzaiolo",
+    "num_comments": 224,
+    "posted_at": "2026-09-08T01:57:23+00:00"
+  },
+  {
+    "id": 49555592,
+    "title": "Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?",
+    "url": null,
+    "score": 241,
+    "author": "Animats",
+    "num_comments": 119,
+    "posted_at": "2026-09-03T19:38:46+00:00"
+  },
+  {
+    "id": 49604637,
+    "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+    "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+    "score": 487,
+    "author": "ahlCVA",
+    "num_comments": 123,
+    "posted_at": "2026-09-08T01:16:59+00:00"
+  },
+  {
+    "id": 49605511,
+    "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+    "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+    "score": 81,
+    "author": "Re-Tails",
+    "num_comments": 62,
+    "posted_at": "2026-09-08T04:06:20+00:00"
+  },
+  {
+    "id": 49612772,
+    "title": "Our GitHub Actions bill kept climbing, so we moved CI to one box",
+    "url": "https://github.com/senoff/self-hosted-ci-runner",
+    "score": 26,
+    "author": "senoff",
+    "num_comments": 16,
+    "posted_at": "2026-09-08T16:40:40+00:00"
+  },
+  {
+    "id": 49613200,
+    "title": "\"Please Remove All Mannered Prose\" and Other LLM Incantations",
+    "url": "https://matthewritch.com/blog/2026/09/08/Mannered-Prose-Style-Prompts/",
+    "score": 23,
+    "author": "mdritch",
+    "num_comments": 2,
+    "posted_at": "2026-09-08T17:08:51+00:00"
+  },
+  {
+    "id": 49619672,
+    "title": "ex-OpenAI Researcher Quits Anthropic over AI Safety Fears",
+    "url": "https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628",
+    "score": 12,
+    "author": "paaloeye",
+    "num_comments": 3,
+    "posted_at": "2026-09-09T01:36:17+00:00"
+  },
+  {
+    "id": 49570411,
+    "title": "End-to-end infrastructure for training and inferencing open weight models",
+    "url": "https://docs.appliedcompute.com",
+    "score": 71,
+    "author": "Bluestein",
+    "num_comments": 14,
+    "posted_at": "2026-09-04T21:25:49+00:00"
+  },
+  {
+    "id": 49612635,
+    "title": "Y Combinator Early Access Network",
+    "url": "https://events.ycombinator.com/yc-early-access-fall-26",
+    "score": 76,
+    "author": "tosh",
+    "num_comments": 65,
+    "posted_at": "2026-09-08T16:31:01+00:00"
+  },
+  {
+    "id": 49619235,
+    "title": "Codex silently begs agents to make arbitrary web requests",
+    "url": "https://spader.zone/wtf/",
+    "score": 15,
+    "author": "dboon",
+    "num_comments": 4,
+    "posted_at": "2026-09-09T00:41:22+00:00"
+  },
+  {
+    "id": 49618622,
+    "title": "Chinese AI Companies Conducting Distillation Campaigns Against U.S. AI Companies [pdf]",
+    "url": "https://media.defense.gov/2026/Sep/08/2003992823/-1/-1/1/CSA_CHINA_BASED_AI_COMPANIES_MALICIOUS_DISTILLATION_AGAINST_US.PDF",
+    "score": 16,
+    "author": "michaefe",
+    "num_comments": 12,
+    "posted_at": "2026-09-08T23:28:43+00:00"
+  },
+  {
+    "id": 49602490,
+    "title": "Emacs Bedrock 2.0",
+    "url": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
+    "score": 182,
+    "author": "ashton314",
+    "num_comments": 51,
+    "posted_at": "2026-09-07T20:12:12+00:00"
+  },
+  {
+    "id": 49614983,
+    "title": "Real photos of young girls were in nudify-app ads on Facebook, Instagram",
+    "url": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
+    "score": 60,
+    "author": "Bender",
+    "num_comments": 17,
+    "posted_at": "2026-09-08T18:54:18+00:00"
+  },
+  {
+    "id": 49593563,
+    "title": "Keep Our Servers Running",
+    "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+    "score": 1031,
+    "author": "sonicrocketman",
+    "num_comments": 272,
+    "posted_at": "2026-09-07T03:29:51+00:00"
+  },
+  {
+    "id": 49612329,
+    "title": "LG TVs caught spying even when offline or on standby",
+    "url": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
+    "score": 500,
+    "author": "sbulaev",
+    "num_comments": 282,
+    "posted_at": "2026-09-08T16:07:08+00:00"
+  },
+  {
+    "id": 49614720,
+    "title": "ChatGPT Images 2.5",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+    "score": 275,
+    "author": "vertigoruntime",
+    "num_comments": 371,
+    "posted_at": "2026-09-08T18:37:51+00:00"
+  },
+  {
+    "id": 49611329,
+    "title": "Reverse engineering the 2008 LogiCola, a logic drill program",
+    "url": "https://logicola.org/blog/the-new-logicola",
+    "score": 20,
+    "author": "kotk",
+    "num_comments": 2,
+    "posted_at": "2026-09-08T15:00:43+00:00"
+  },
+  {
+    "id": 49560682,
+    "title": "John Margolies' photographs of roadside America",
+    "url": "https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/",
+    "score": 123,
+    "author": "duck",
+    "num_comments": 42,
+    "posted_at": "2026-09-04T04:57:22+00:00"
+  },
+  {
+    "id": 49611641,
+    "title": "I Rewrote My Back End in Go in 72 Hours and Cut My AWS Bill by 94%",
+    "url": "https://www.bajura.online/2026/09/i-rewrote-my-backend-in-go-in-72-hours.html",
+    "score": 53,
+    "author": "odilelof",
+    "num_comments": 23,
+    "posted_at": "2026-09-08T15:20:29+00:00"
+  },
+  {
+    "id": 49615888,
+    "title": "Meta Failed to Catch Hundreds of AI Child Abuse Ads",
+    "url": "https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids/",
+    "score": 39,
+    "author": "thm",
+    "num_comments": 6,
+    "posted_at": "2026-09-08T19:43:54+00:00"
+  },
+  {
+    "id": 49604861,
+    "title": "Jellyfin 12.0",
+    "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
+    "score": 587,
+    "author": "0xC0ncord",
+    "num_comments": 331,
+    "posted_at": "2026-09-08T01:56:35+00:00"
+  },
+  {
+    "id": 49619946,
+    "title": "Statement from AMS Leadership on Navier-Stokes Problem",
+    "url": "https://www.ams.org/news?news_id=7686",
+    "score": 5,
+    "author": "wslh",
+    "num_comments": 1,
+    "posted_at": "2026-09-09T02:11:50+00:00"
+  },
+  {
+    "id": 49571096,
+    "title": "This Month in Ladybird – August 2026",
+    "url": "https://ladybird.org/newsletter/2026-08-31/",
+    "score": 279,
+    "author": "exploraz",
+    "num_comments": 79,
+    "posted_at": "2026-09-04T22:47:04+00:00"
+  },
+  {
+    "id": 49592375,
+    "title": "216M Spy TVs – The LG Smart TV Problem [video]",
+    "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+    "score": 882,
+    "author": "treve",
+    "num_comments": 987,
+    "posted_at": "2026-09-07T00:22:04+00:00"
+  },
+  {
+    "id": 49614557,
+    "title": "Flights cancelled at UK airports due to ATC issue",
+    "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
+    "score": 118,
+    "author": "contingencies",
+    "num_comments": 101,
+    "posted_at": "2026-09-08T18:26:27+00:00"
+  },
+  {
+    "id": 49616163,
+    "title": "Using radiative coatings to cool buildings on the cheap",
+    "url": "https://www.economist.com/science-and-technology/2026/09/08/how-to-cool-buildings-on-the-cheap",
+    "score": 7,
+    "author": "ikesau",
+    "num_comments": 1,
+    "posted_at": "2026-09-08T20:01:47+00:00"
+  },
+  {
+    "id": 49609250,
+    "title": "What Happened to Compuserve?",
+    "url": "https://dfarq.homeip.net/what-happened-to-compuserve/",
+    "score": 15,
+    "author": "jnord",
+    "num_comments": 6,
+    "posted_at": "2026-09-08T12:11:18+00:00"
+  },
+  {
+    "id": 49605644,
+    "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+    "url": "https://rohanadwankar.github.io/posts/platforms.html",
+    "score": 71,
+    "author": "RohanAdwankar",
+    "num_comments": 26,
+    "posted_at": "2026-09-08T04:36:26+00:00"
+  },
+  {
+    "id": 49617184,
+    "title": "Show HN: SimpleW – Lightweight C# Web Server with optional addons",
+    "url": "https://simplew.net/",
+    "score": 4,
+    "author": "prodbro",
+    "num_comments": 0,
+    "posted_at": "2026-09-08T21:16:25+00:00"
+  },
+  {
+    "id": 49558685,
+    "title": "Simple Is Not Small",
+    "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
+    "score": 257,
+    "author": "zdw",
+    "num_comments": 88,
+    "posted_at": "2026-09-03T23:47:28+00:00"
+  },
+  {
+    "id": 49612463,
+    "title": "Do you think it happened? Research stolen from their Codex private chats",
+    "url": "https://www.reddit.com/r/codex/s/psWHRr9864",
+    "score": 68,
+    "author": "KingOfMyRoom",
+    "num_comments": 23,
+    "posted_at": "2026-09-08T16:17:11+00:00"
+  },
+  {
+    "id": 49605822,
+    "title": "Multi-Agents LLM Financial Trading Framework",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "score": 114,
+    "author": "fittingopposite",
+    "num_comments": 76,
+    "posted_at": "2026-09-08T05:20:23+00:00"
+  },
+  {
+    "id": 49549327,
+    "title": "Extinct Tasmanian tiger's 'snap' unlike any living mammal's bite",
+    "url": "https://www.cnn.com/2026/09/02/science/tasmanian-tiger-skull-bite-force",
+    "score": 51,
+    "author": "cisc",
+    "num_comments": 13,
+    "posted_at": "2026-09-03T12:53:21+00:00"
+  },
+  {
+    "id": 49616239,
+    "title": "Trey Parker and Matt Stone Are Changing the Name of South Park to South America",
+    "url": "https://twitter.com/SouthPark/status/2097364141237539116",
+    "score": 188,
+    "author": "HelloUsername",
+    "num_comments": 97,
+    "posted_at": "2026-09-08T20:06:33+00:00"
+  },
+  {
+    "id": 49561002,
+    "title": "Decoding the NEC V20 Microcode",
+    "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
+    "score": 144,
+    "author": "mariuz",
+    "num_comments": 9,
+    "posted_at": "2026-09-04T05:53:38+00:00"
+  },
+  {
+    "id": 49604150,
+    "title": "TALA Is Open-Source",
+    "url": "https://d2lang.com/blog/tala-is-open-source/",
+    "score": 303,
+    "author": "alixanderwang",
+    "num_comments": 23,
+    "posted_at": "2026-09-07T23:37:42+00:00"
+  },
+  {
+    "id": 49602699,
+    "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+    "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+    "score": 262,
+    "author": "josephcsible",
+    "num_comments": 149,
+    "posted_at": "2026-09-07T20:32:55+00:00"
+  },
+  {
+    "id": 49613527,
+    "title": "EV batteries last longer than drivers feared",
+    "url": "https://arstechnica.com/cars/2026/09/ev-batteries-last-longer-than-drivers-feared/",
+    "score": 37,
+    "author": "bookmtn",
+    "num_comments": 2,
+    "posted_at": "2026-09-08T17:29:57+00:00"
+  },
+  {
+    "id": 49601655,
+    "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+    "url": "https://lax-skyline.parcelscope.net/",
+    "score": 335,
+    "author": "rustywasm",
+    "num_comments": 180,
+    "posted_at": "2026-09-07T18:52:06+00:00"
+  },
+  {
+    "id": 49568162,
+    "title": "Show HN: Jigsaw Haiku",
+    "url": "https://jigsawhaiku.com/",
+    "score": 110,
+    "author": "windowshopping",
+    "num_comments": 32,
+    "posted_at": "2026-09-04T18:14:44+00:00"
+  },
+  {
+    "id": 49612081,
+    "title": "Super Smash Brothers Melee has been 100% decompilated with the help of LLMs",
+    "url": "https://github.com/doldecomp/melee",
+    "score": 8,
+    "author": "oveja",
+    "num_comments": 0,
+    "posted_at": "2026-09-08T15:49:30+00:00"
+  },
+  {
+    "id": 49610538,
+    "title": "LibreOffice breaks download records after declaring it has no AI features",
+    "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+    "score": 653,
+    "author": "rpgbr",
+    "num_comments": 217,
+    "posted_at": "2026-09-08T14:05:57+00:00"
+  },
+  {
+    "id": 49559069,
+    "title": "Show HN: Interactive Tree of Life",
+    "url": "https://ptree.org/",
+    "score": 106,
+    "author": "Lucent",
+    "num_comments": 24,
+    "posted_at": "2026-09-04T00:40:06+00:00"
+  },
+  {
+    "id": 49619457,
+    "title": "US to ban Canadian dairy, alcohol, motor vehicle imports on September 29",
+    "url": "https://www.reuters.com/business/us-ban-canadian-dairy-alcohol-motor-vehicle-imports-september-29-2026-09-08/",
+    "score": 44,
+    "author": "JumpCrisscross",
+    "num_comments": 27,
+    "posted_at": "2026-09-09T01:13:57+00:00"
+  }
+]
