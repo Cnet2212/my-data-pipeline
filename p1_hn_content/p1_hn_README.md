@@ -2,8 +2,7 @@
 
 Fetches, validates, and stores the current top stories from Hacker News, then displays them on a live filterable dashboard.
 
-**Live dashboard:** _(add your Streamlit Cloud link here after deploying)_
-
+**Live dashboard:** https://cnet2212-my-data-pipeline-p1-hn-contentp1-hn-app-ibuoib.streamlit.app/
 ## Stack
 - **Extraction:** `httpx` async client calling the official Hacker News public API directly (no browser automation needed — data is available as JSON)
 - **Concurrency:** up to 10 simultaneous requests (semaphore-limited) to fetch 100 story details efficiently without hammering the API
