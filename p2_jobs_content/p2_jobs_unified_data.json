@@ -7,19 +7,19 @@
     "location": "Worldwide",
     "remote": true,
     "tags": [
+      "security",
+      "onboarding",
       "Microsoft 365",
-      "documentation",
-      "video",
+      "ticketing",
       "hardware",
+      "documentation",
       "helpdesk",
       "MSP",
       "azure",
-      "ticketing",
-      "security",
-      "Information Technology",
       "IT systems",
+      "video",
       "cisco",
-      "onboarding"
+      "Information Technology"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -35,12 +35,12 @@
     "location": "Europe",
     "remote": true,
     "tags": [
-      "saas sales",
-      "saas",
-      "chat",
-      "video",
       "mental health",
       "SOLID",
+      "saas sales",
+      "chat",
+      "saas",
+      "video",
       "Sales"
     ],
     "salary_raw": "",
@@ -58,19 +58,19 @@
     "remote": true,
     "tags": [
       "github",
-      "saas",
-      "html",
+      "startup",
+      "onboarding",
+      "Customer Service",
+      "testing",
+      "javascript",
       "chat",
+      "saas",
       "product support",
       "go",
-      "testing",
-      "CSS",
-      "api",
-      "startup",
       "troubleshooting",
-      "javascript",
-      "Customer Service",
-      "onboarding"
+      "CSS",
+      "html",
+      "api"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -103,17 +103,17 @@
     "location": "Worldwide",
     "remote": true,
     "tags": [
-      "Writing",
-      "research",
-      "bookkeeping",
-      "G Suite",
-      "quickbooks",
-      "insurance",
-      "data entry",
-      "excel",
+      "google sheets",
       "accounting",
+      "bookkeeping",
+      "research",
+      "quickbooks",
       "data analysis",
-      "google sheets"
+      "data entry",
+      "G Suite",
+      "Writing",
+      "insurance",
+      "excel"
     ],
     "salary_raw": "$20k -$35k",
     "salary_min": 20000.0,
@@ -129,53 +129,53 @@
     "location": "LATAM, Europe, USA, Canada, APAC",
     "remote": true,
     "tags": [
-      "react js",
-      "Typescript ",
-      "firebase",
+      "rust",
+      "javascript",
+      "Ethereum",
+      "angular ",
+      "C#",
+      "C++",
+      "startup",
+      "swift",
+      "Symfony",
+      "unity",
+      ".Net",
+      "ios",
       "electron",
+      "spring",
+      "java",
+      "react js",
+      "next.js",
+      "AI/ML",
+      "Software Development",
+      "wordpress",
+      "react native",
+      "Site Reliability",
+      "python",
+      "flutter",
+      "golang",
+      "react",
+      "data science",
+      "AWS",
+      "C",
+      "shopify",
+      "laravel",
+      "blockchain",
+      "android",
       "graphic design",
       "ruby/rails",
-      "javascript",
-      "rust",
-      "data engineering",
-      "next.js",
-      "flutter",
-      "scala",
-      "golang",
-      "Software Development",
-      "swift",
-      "Site Reliability",
-      "java",
-      ".Net",
-      "Ethereum",
-      "AI/ML",
-      "angular ",
-      "php",
-      "marketplace",
-      "laravel",
       "UI/UX",
-      "node.js",
-      "shopify",
-      "startup",
-      "react native",
-      "android",
-      "project management",
-      "fullstack",
-      "react",
-      "backend",
-      "wordpress",
-      "C",
-      "AWS",
-      "Symfony",
-      "spring",
-      "C++",
-      "data science",
-      "python",
-      "C#",
       "automation",
-      "blockchain",
-      "unity",
-      "ios"
+      "scala",
+      "Typescript ",
+      "marketplace",
+      "fullstack",
+      "data engineering",
+      "firebase",
+      "node.js",
+      "backend",
+      "php",
+      "project management"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -191,52 +191,52 @@
     "location": "Europe",
     "remote": true,
     "tags": [
-      "Typescript ",
-      "firebase",
+      "rust",
+      "Quality Assurance",
+      "testing",
+      "javascript",
+      "selenium",
+      "Ethereum",
+      "angular ",
+      "C#",
+      "C++",
+      "swift",
+      "Symfony",
+      "unity",
+      ".Net",
+      "ios",
       "electron",
-      "manual testing",
+      "spring",
+      "java",
+      "next.js",
+      "AI/ML",
+      "wordpress",
+      "react native",
+      "Site Reliability",
+      "python",
+      "flutter",
+      "golang",
+      "react",
+      "data science",
+      "C",
+      "shopify",
+      "laravel",
+      "cypress",
+      "blockchain",
+      "android",
       "graphic design",
       "ruby/rails",
-      "javascript",
-      "rust",
-      "data engineering",
-      "next.js",
-      "flutter",
-      "scala",
-      "golang",
-      "swift",
-      "testing",
-      "Site Reliability",
-      "java",
-      "selenium",
-      ".Net",
-      "Ethereum",
-      "AI/ML",
-      "angular ",
-      "php",
-      "marketplace",
-      "laravel",
       "UI/UX",
-      "node.js",
-      "shopify",
-      "react native",
-      "android",
-      "cypress",
-      "project management",
-      "wordpress",
-      "react",
-      "Quality Assurance",
-      "C",
-      "Symfony",
-      "spring",
-      "C++",
-      "data science",
-      "python",
-      "C#",
       "automation",
-      "blockchain",
-      "unity",
-      "ios"
+      "manual testing",
+      "scala",
+      "Typescript ",
+      "marketplace",
+      "data engineering",
+      "firebase",
+      "node.js",
+      "php",
+      "project management"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -252,60 +252,60 @@
     "location": "LATAM, Europe, USA, Canada, APAC",
     "remote": true,
     "tags": [
-      "Typescript ",
-      "firebase",
-      "sql",
-      "electron",
+      "rust",
+      "Linux/Unix",
+      "javascript",
+      "data analysis",
       "azure",
+      "product management",
+      "Ethereum",
+      "angular ",
+      "C#",
+      "C++",
+      "swift",
       "kubernetes",
+      "Symfony",
+      "unity",
+      ".Net",
+      "ios",
+      "electron",
+      "terraform",
+      "spring",
+      "java",
+      "next.js",
+      "Devops",
+      "infrastructure",
+      "AI/ML",
+      "wordpress",
+      "react native",
+      "Site Reliability",
+      "python",
+      "flutter",
+      "golang",
+      "react",
+      "data science",
+      "AWS",
+      "C",
+      "heroku",
+      "shopify",
+      "blockchain",
+      "laravel",
+      "sql",
+      "android",
       "graphic design",
       "ruby/rails",
-      "javascript",
-      "rust",
-      "data analysis",
-      "data engineering",
-      "next.js",
-      "flutter",
+      "UI/UX",
+      "automation",
       "scala",
-      "golang",
-      "Linux/Unix",
-      "swift",
-      "Site Reliability",
-      "java",
-      ".Net",
-      "Ethereum",
-      "product management",
-      "AI/ML",
-      "angular ",
-      "php",
+      "Typescript ",
       "marketplace",
       "GCP",
-      "laravel",
-      "UI/UX",
-      "node.js",
-      "shopify",
-      "react native",
-      "android",
-      "project management",
-      "wordpress",
-      "react",
-      "heroku",
-      "Devops",
-      "C",
-      "AWS",
-      "Symfony",
-      "spring",
-      "infrastructure",
       "bash",
-      "C++",
-      "terraform",
-      "data science",
-      "python",
-      "C#",
-      "automation",
-      "blockchain",
-      "unity",
-      "ios"
+      "data engineering",
+      "firebase",
+      "node.js",
+      "php",
+      "project management"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -323,9 +323,9 @@
     "tags": [
       "social media",
       "android",
-      "All others",
+      "ios",
       "AI/ML",
-      "ios"
+      "All others"
     ],
     "salary_raw": "$14/hour",
     "salary_min": 14.0,
@@ -341,51 +341,51 @@
     "location": "Europe, USA, UK, Canada, Australia, Singapore",
     "remote": true,
     "tags": [
-      "Typescript ",
-      "electron",
+      "rust",
+      "javascript",
+      "data analysis",
+      "product management",
+      "Ethereum",
+      "angular ",
+      "C#",
+      "C++",
+      "swift",
       "kubernetes",
+      "Symfony",
+      "unity",
+      ".Net",
+      "ios",
+      "electron",
+      "research",
+      "java",
+      "spring",
+      "next.js",
+      "AI/ML",
+      "Software Development",
+      "wordpress",
+      "react native",
+      "Site Reliability",
+      "python",
+      "flutter",
+      "golang",
+      "react",
+      "data science",
+      "C",
+      "shopify",
+      "laravel",
+      "blockchain",
+      "android",
       "graphic design",
       "ruby/rails",
-      "javascript",
-      "rust",
-      "data analysis",
-      "data engineering",
-      "next.js",
-      "flutter",
-      "scala",
-      "golang",
-      "Software Development",
-      "swift",
-      "Site Reliability",
-      "java",
-      ".Net",
-      "Ethereum",
-      "product management",
-      "AI/ML",
-      "angular ",
-      "php",
-      "research",
-      "marketplace",
-      "laravel",
       "UI/UX",
-      "node.js",
-      "shopify",
-      "react native",
-      "android",
-      "project management",
-      "wordpress",
-      "react",
-      "C",
-      "Symfony",
-      "spring",
-      "C++",
-      "data science",
-      "python",
-      "C#",
       "automation",
-      "blockchain",
-      "unity",
-      "ios"
+      "scala",
+      "Typescript ",
+      "marketplace",
+      "data engineering",
+      "node.js",
+      "php",
+      "project management"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -401,54 +401,54 @@
     "location": "LATAM, Europe, USA, Canada, APAC",
     "remote": true,
     "tags": [
-      "Typescript ",
-      "sql",
-      "electron",
-      "azure",
-      "apache",
-      "ruby/rails",
-      "javascript",
       "rust",
-      "graphic design",
-      "next.js",
-      "flutter",
-      "scala",
-      "golang",
-      "Software Development",
-      "swift",
-      "Site Reliability",
-      "java",
       "Snowflake",
-      ".Net",
-      "Ethereum",
+      "javascript",
+      "azure",
       "product management",
-      "AI/ML",
+      "Ethereum",
       "angular ",
-      "php",
-      "marketplace",
-      "GCP",
-      "laravel",
-      "UI/UX",
-      "node.js",
-      "shopify",
+      "C#",
+      "C++",
       "startup",
-      "react native",
-      "android",
-      "project management",
+      "swift",
+      "Symfony",
+      "unity",
+      ".Net",
+      "ios",
+      "electron",
+      "spring",
+      "java",
+      "next.js",
+      "AI/ML",
+      "Software Development",
       "wordpress",
+      "react native",
+      "Site Reliability",
+      "python",
+      "flutter",
+      "golang",
       "react",
+      "data science",
       "AWS",
       "C",
-      "Symfony",
-      "spring",
-      "C++",
-      "data science",
-      "python",
-      "C#",
-      "automation",
+      "apache",
+      "shopify",
       "blockchain",
-      "unity",
-      "ios"
+      "laravel",
+      "sql",
+      "android",
+      "graphic design",
+      "ruby/rails",
+      "UI/UX",
+      "automation",
+      "scala",
+      "Typescript ",
+      "marketplace",
+      "GCP",
+      "node.js",
+      "php",
+      "project management"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -464,14 +464,14 @@
     "location": "Americas, Europe, Israel",
     "remote": true,
     "tags": [
-      "Software Development",
       "testing",
-      "chat",
-      "go",
-      "UI/UX",
       "catalyst",
-      "apple",
-      "wordpress"
+      "chat",
+      "UI/UX",
+      "Software Development",
+      "go",
+      "wordpress",
+      "apple"
     ],
     "salary_raw": "$120 - $170 /hour",
     "salary_min": 120.0,
@@ -487,13 +487,13 @@
     "location": "Americas, Europe, Israel",
     "remote": true,
     "tags": [
-      "Software Development",
       "testing",
-      "chat",
-      "go",
       "catalyst",
-      "apple",
-      "wordpress"
+      "chat",
+      "Software Development",
+      "go",
+      "wordpress",
+      "apple"
     ],
     "salary_raw": "$90 - $150 /hour",
     "salary_min": 90.0,
@@ -509,18 +509,18 @@
     "location": "Worldwide",
     "remote": true,
     "tags": [
-      "open source",
-      "Figma",
       "C",
-      "IoT",
-      "testing",
-      "themes",
-      "video",
-      "Marketing",
-      "editing",
       "mobile development",
       "project management",
-      "AI/ML"
+      "testing",
+      "IoT",
+      "themes",
+      "Figma",
+      "open source",
+      "AI/ML",
+      "editing",
+      "video",
+      "Marketing"
     ],
     "salary_raw": "$150k - $230k",
     "salary_min": 150000.0,
@@ -536,31 +536,31 @@
     "location": "USA, Canada, USA timezones",
     "remote": true,
     "tags": [
-      "Redis",
-      "ES6",
-      "Micro services",
-      "kubernetes",
-      "postgresql",
-      "ruby/rails",
-      "javascript",
       "ror",
-      "CAD",
-      "Software Development",
-      "NLP",
-      "github",
-      "api",
-      "docker",
-      "AI/ML",
-      "html",
-      "elasticsearch",
-      "CSS",
-      "advertising",
-      "fullstack",
-      "react",
-      "MySQL",
-      "system architecture",
+      "javascript",
       "fintech",
-      "web applications"
+      "html",
+      "MySQL",
+      "kubernetes",
+      "ES6",
+      "AI/ML",
+      "Software Development",
+      "advertising",
+      "system architecture",
+      "elasticsearch",
+      "api",
+      "react",
+      "CAD",
+      "ruby/rails",
+      "postgresql",
+      "Micro services",
+      "fullstack",
+      "github",
+      "Redis",
+      "docker",
+      "web applications",
+      "CSS",
+      "NLP"
     ],
     "salary_raw": "$170k - $200k",
     "salary_min": 170000.0,
@@ -576,8 +576,8 @@
     "location": "USA",
     "remote": true,
     "tags": [
-      "All others",
-      "research"
+      "research",
+      "All others"
     ],
     "salary_raw": "Pay per task",
     "salary_min": null,
@@ -593,26 +593,26 @@
     "location": "Worldwide",
     "remote": true,
     "tags": [
-      "git",
+      "Ajax",
       "frontend",
+      "html",
+      "MySQL",
+      "startup",
+      "illustrator",
+      "insurance",
+      "wordpress",
+      "Marketing",
+      "git",
+      "shopify",
+      "themes",
+      "excel",
+      "bootstrap",
       "photoshop",
       "jQuery",
-      "responsive",
-      "bootstrap",
-      "Marketing",
-      "php",
-      "html",
-      "CSS",
       "magento",
-      "shopify",
-      "Ajax",
-      "startup",
-      "excel",
-      "wordpress",
-      "MySQL",
-      "themes",
-      "insurance",
-      "illustrator"
+      "php",
+      "CSS",
+      "responsive"
     ],
     "salary_raw": "$31,2k- $52k",
     "salary_min": 52000.0,
@@ -628,11 +628,11 @@
     "location": "Worldwide",
     "remote": true,
     "tags": [
-      "CRM",
+      "financial services",
+      "google sheets",
       "Inside Sales",
       "Sales",
-      "financial services",
-      "google sheets"
+      "CRM"
     ],
     "salary_raw": "OTE $25k - $35k",
     "salary_min": 25000.0,
@@ -734,8 +734,8 @@
     "location": "Altenmünster",
     "remote": false,
     "tags": [
-      "Chief Executives",
-      "Directors"
+      "Directors",
+      "Chief Executives"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -751,8 +751,8 @@
     "location": "Forchheim",
     "remote": false,
     "tags": [
-      "Chief Executives",
-      "Directors"
+      "Directors",
+      "Chief Executives"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -768,8 +768,8 @@
     "location": "Grünkraut",
     "remote": false,
     "tags": [
-      "Chief Executives",
-      "Directors"
+      "Directors",
+      "Chief Executives"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -785,8 +785,8 @@
     "location": "Frankfurt am Main",
     "remote": false,
     "tags": [
-      "Chief Executives",
-      "Directors"
+      "Directors",
+      "Chief Executives"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -802,8 +802,8 @@
     "location": "Neuenstadt am Kocher",
     "remote": false,
     "tags": [
-      "Chief Executives",
-      "Directors"
+      "Directors",
+      "Chief Executives"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -819,8 +819,8 @@
     "location": "Eriskirch",
     "remote": false,
     "tags": [
-      "Chief Executives",
-      "Directors"
+      "Directors",
+      "Chief Executives"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -836,8 +836,8 @@
     "location": "Notzingen",
     "remote": false,
     "tags": [
-      "Chief Executives",
-      "Directors"
+      "Directors",
+      "Chief Executives"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -853,8 +853,8 @@
     "location": "Massenbachhausen",
     "remote": false,
     "tags": [
-      "Chief Executives",
-      "Directors"
+      "Directors",
+      "Chief Executives"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -889,8 +889,8 @@
     "remote": false,
     "tags": [
       "Manager",
-      "TEC - Mechanik",
-      "fulltime permanent"
+      "fulltime permanent",
+      "TEC - Mechanik"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -907,8 +907,8 @@
     "remote": false,
     "tags": [
       "TEC - Betriebe und Gebäude",
-      "Manager",
-      "fulltime permanent"
+      "fulltime permanent",
+      "Manager"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -925,9 +925,9 @@
     "remote": false,
     "tags": [
       "Finance",
-      "entry",
       "Full-time permanent",
-      "high school or equivalent"
+      "high school or equivalent",
+      "entry"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -943,16 +943,16 @@
     "location": "Mannheim, Remote",
     "remote": false,
     "tags": [
-      "Health",
-      "Permanent",
-      "eHealth",
-      "technisch",
-      "Experienced",
       "Gesundheit",
+      "Permanent",
+      "Projektmanager",
+      "technisch",
+      "eHealth",
+      "IT",
+      "Health",
       "Projektmanagement",
       "Full time",
-      "IT",
-      "Projektmanager"
+      "Experienced"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -968,8 +968,8 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "Permanent",
       "Full time",
+      "Permanent",
       "Experienced"
     ],
     "salary_raw": "",
@@ -986,9 +986,9 @@
     "location": "Frankfurt",
     "remote": false,
     "tags": [
-      "Intern",
-      "Student",
       "Full or part time",
+      "Student",
+      "Intern",
       "Werkstudent oder Praktikant Human Resources (m/w/d)"
     ],
     "salary_raw": "",
@@ -1005,13 +1005,13 @@
     "location": "Frankfurt",
     "remote": false,
     "tags": [
-      "Permanent",
-      "Student",
-      "Werkstudenten",
-      "HR Werkstudent",
-      "Full time",
       "Praktikanten",
-      "HR Praktikant"
+      "Permanent",
+      "HR Praktikant",
+      "HR Werkstudent",
+      "Werkstudenten",
+      "Full time",
+      "Student"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -1027,15 +1027,15 @@
     "location": "Stuttgart",
     "remote": false,
     "tags": [
-      "Student",
       "Nebenjob",
-      "Part time",
       "Automatisierung",
+      "Werkstudent",
+      "Student",
+      "Part time",
+      "Werkstudentin",
       "Intern",
       "Wirtschaftsprüfung",
-      "Werkstudentin",
       "KI",
-      "Werkstudent",
       "Steuerberatung"
     ],
     "salary_raw": "",
@@ -1052,20 +1052,20 @@
     "location": "Remote - Berlin",
     "remote": false,
     "tags": [
-      "Permanent",
-      "Lebensmittelindustrie",
-      "Lebensmittelentwicklung",
       "Produktlaunch",
-      "Projektkoordination",
       "Lebensmitteltechnologie",
-      "Rezepturentwicklung",
+      "Projektkoordination",
+      "Permanent",
+      "Lebensmittelentwicklung",
+      "Inhaltsstoffe",
+      "Produktentwicklung",
       "Go-to-Market",
       "Produktoptimierung",
       "Full time",
-      "Inhaltsstoffe",
-      "Produktentwicklung",
+      "Lebensmittelindustrie",
+      "Entry",
       "FMCG",
-      "Entry"
+      "Rezepturentwicklung"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -1115,9 +1115,9 @@
     "location": "Homeoffice",
     "remote": true,
     "tags": [
+      "Customer Cluster Justice",
       "fulltime permanent",
       "Remote",
-      "Customer Cluster Justice",
       "Experienced"
     ],
     "salary_raw": "",
@@ -1134,9 +1134,9 @@
     "location": "Kaarst, Nordrhein-Westfalen, Deutschland",
     "remote": false,
     "tags": [
+      "Customer Cluster Finance",
       "fulltime permanent",
-      "Experienced",
-      "Customer Cluster Finance"
+      "Experienced"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -1152,9 +1152,9 @@
     "location": "Kaarst, Nordrhein-Westfalen, Deutschland",
     "remote": false,
     "tags": [
+      "Customer Cluster Finance",
       "fulltime permanent",
-      "Experienced",
-      "Customer Cluster Finance"
+      "Experienced"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -1170,11 +1170,11 @@
     "location": "Homeoffice",
     "remote": true,
     "tags": [
-      "Transportation & Energy",
-      "fulltime permanent",
-      "Experienced",
+      "Customer Cluster Environment",
       "Remote",
-      "Customer Cluster Environment"
+      "fulltime permanent",
+      "Transportation & Energy",
+      "Experienced"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -1190,10 +1190,10 @@
     "location": "Homeoffice",
     "remote": true,
     "tags": [
-      "Remote",
       "fulltime permanent",
-      "Customer Cluster Healthcare",
-      "Experienced"
+      "Remote",
+      "Experienced",
+      "Customer Cluster Healthcare"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -1209,10 +1209,10 @@
     "location": "Homeoffice",
     "remote": true,
     "tags": [
-      "Remote",
       "fulltime permanent",
-      "Customer Cluster Healthcare",
-      "Experienced"
+      "Remote",
+      "Experienced",
+      "Customer Cluster Healthcare"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -1228,10 +1228,10 @@
     "location": "Homeoffice",
     "remote": true,
     "tags": [
+      "Customer Cluster Finance",
       "fulltime permanent",
       "Remote",
-      "Experienced",
-      "Customer Cluster Finance"
+      "Experienced"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -1247,9 +1247,9 @@
     "location": "Ulm , Baden-Württemberg, Deutschland",
     "remote": false,
     "tags": [
+      "fulltime fixed term",
       "AÜ-Hensoldt",
-      "Mid",
-      "fulltime fixed term"
+      "Mid"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -1265,9 +1265,9 @@
     "location": "Köln, Nordrhein-Westfalen, Deutschland",
     "remote": false,
     "tags": [
+      "Business Development",
       "Entry",
-      "parttime fixed term",
-      "Business Development"
+      "parttime fixed term"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -1283,11 +1283,11 @@
     "location": "Berlin, Germany",
     "remote": false,
     "tags": [
-      "Archimed",
       "associate",
+      "Archimed",
       "Venture Capital & Private Equity",
-      "Information Technology",
-      "Full time"
+      "Full time",
+      "Information Technology"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -1303,17 +1303,17 @@
     "location": "Frankfurt a. M., Freiburg oder remote",
     "remote": false,
     "tags": [
-      "Django",
-      "Software Development",
+      "Postgresql",
       "Redis",
       "Permanent",
-      "Full or part time",
       "Litestar",
-      "Experienced",
       "Python",
+      "Django",
       "Developer",
-      "Software Entwicklung",
-      "Postgresql"
+      "Experienced",
+      "Full or part time",
+      "Software Development",
+      "Software Entwicklung"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -1329,18 +1329,18 @@
     "location": "Leipzig",
     "remote": false,
     "tags": [
-      "Praktikum HR / Recruiting / Talent Acquisition (m/w/d)",
-      "Pflichtpraktikum HR",
-      "Praktikum HR",
-      "Praktikum Recruiting",
-      "Talent Acquisition",
       "Pflichtpraktikum Recruiting / Talent Acquisition (m/w/d)",
+      "HR",
+      "Pflichtpraktikum HR",
+      "Praktikum Recruiting",
+      "Recruiter",
       "Intern",
       "Recruiting",
-      "HR",
+      "Praktikum HR / Recruiting / Talent Acquisition (m/w/d)",
+      "Praktikum HR",
+      "Talent Acquisition",
       "Full time",
-      "Entry",
-      "Recruiter"
+      "Entry"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -1356,13 +1356,13 @@
     "location": "Köln",
     "remote": false,
     "tags": [
-      "Permanent",
       "intern",
-      "Experienced",
-      "Professional",
-      "Home Office",
+      "Permanent",
       "Office Management",
-      "Full time"
+      "Home Office",
+      "Professional",
+      "Full time",
+      "Experienced"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -1378,8 +1378,8 @@
     "location": "München",
     "remote": false,
     "tags": [
-      "Temporary",
       "Full time",
+      "Temporary",
       "Experienced"
     ],
     "salary_raw": "",
@@ -1396,9 +1396,9 @@
     "location": "Hamburg Office",
     "remote": false,
     "tags": [
-      "Permanent",
-      "Brand Partnerships",
       "Full time",
+      "Brand Partnerships",
+      "Permanent",
       "Experienced"
     ],
     "salary_raw": "",
@@ -1415,8 +1415,8 @@
     "location": "Karlsruhe",
     "remote": false,
     "tags": [
-      "Part time",
       "Student",
+      "Part time",
       "Working student"
     ],
     "salary_raw": "",
@@ -1433,8 +1433,8 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "Permanent",
       "Full time",
+      "Permanent",
       "Experienced"
     ],
     "salary_raw": "",
@@ -1485,8 +1485,8 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Customer Success"
+      "Customer Success",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -1536,8 +1536,8 @@
     "location": "Cologne, Nordrhein-Westfalen, Germany",
     "remote": false,
     "tags": [
-      "1. GTM",
       "fulltime fixed term",
+      "1. GTM",
       "Mid"
     ],
     "salary_raw": "",
@@ -1555,8 +1555,8 @@
     "remote": false,
     "tags": [
       "Organisation",
-      "parttime fixed term",
-      "Student college"
+      "Student college",
+      "parttime fixed term"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -1572,9 +1572,9 @@
     "location": "Bad Salzungen, Thüringen, Deutschland",
     "remote": false,
     "tags": [
-      "parttime fixed term",
       "Werraenergie GmbH",
-      "Student college"
+      "Student college",
+      "parttime fixed term"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -1590,9 +1590,9 @@
     "location": "Bad Salzungen, Thüringen, Deutschland",
     "remote": false,
     "tags": [
-      "parttime fixed term",
+      "WerraEnergiedienste GmbH",
       "Student college",
-      "WerraEnergiedienste GmbH"
+      "parttime fixed term"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -1608,8 +1608,8 @@
     "location": "Bonn, Germany (Hybrid)",
     "remote": false,
     "tags": [
-      "Temporary",
       "Full time",
+      "Temporary",
       "Experienced"
     ],
     "salary_raw": "",
@@ -1626,9 +1626,9 @@
     "location": "Bonn, Germany (Hybrid)",
     "remote": false,
     "tags": [
-      "Data innovation",
-      "Temporary",
       "Full time",
+      "Temporary",
+      "Data innovation",
       "Experienced"
     ],
     "salary_raw": "",
@@ -1645,12 +1645,12 @@
     "location": "Dresden - Dippoldiswalde",
     "remote": false,
     "tags": [
-      "calibration",
-      "TechnicalService",
-      "Working student",
-      "Part time",
       "MeasurementTechnology",
       "workingstudent",
+      "Part time",
+      "TechnicalService",
+      "Working student",
+      "calibration",
       "Entry",
       "ElectricalEngineering"
     ],
@@ -1669,10 +1669,10 @@
     "remote": false,
     "tags": [
       "Permanent",
-      "Experienced",
-      "outbound",
       "Full time",
-      "sales"
+      "outbound",
+      "sales",
+      "Experienced"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -1689,11 +1689,11 @@
     "remote": false,
     "tags": [
       "Permanent",
-      "SDR",
-      "Experienced",
       "Sales Development Representative",
+      "SDR",
       "Full time",
-      "sales"
+      "sales",
+      "Experienced"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -1709,24 +1709,24 @@
     "location": "Hamburg, München, Düsseldorf, remote",
     "remote": false,
     "tags": [
-      "Permanent",
-      "Software Development",
       "AWS",
-      "Azure",
-      "Experienced",
-      "GCP",
-      "Solution Engineering",
       "GenAI",
-      "Insurance",
-      "Python",
-      "Data Engineer",
+      "Permanent",
       "Finance",
-      "Machine Learning",
       "Cloud",
-      "SQL",
+      "Warehousing",
+      "Azure",
+      "Python",
+      "Insurance",
+      "Solution Engineering",
+      "Machine Learning",
+      "Experienced",
+      "Software Development",
       "KI",
       "Full time",
-      "Warehousing"
+      "SQL",
+      "GCP",
+      "Data Engineer"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -1742,19 +1742,19 @@
     "location": "Hamburg, München, Düsseldorf, remote",
     "remote": false,
     "tags": [
-      "Permanent",
-      "DORA",
       "Business Development",
-      "IT Security",
-      "Experienced",
-      "compliance",
+      "Permanent",
       "ISO270XX",
+      "DORA",
+      "compliance",
+      "NIST SP 800 series",
+      "IT Security",
+      "cybersecurity",
+      "Full time",
       "OT Security",
       "IT management framework",
       "Sales",
-      "Full time",
-      "cybersecurity",
-      "NIST SP 800 series"
+      "Experienced"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -1771,12 +1771,12 @@
     "remote": false,
     "tags": [
       "Permanent",
-      "Experienced",
+      "IT",
       "Consulting",
       "AI Architecture",
+      "Enterprise Architecture",
       "Full time",
-      "IT",
-      "Enterprise Architecture"
+      "Experienced"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -1792,18 +1792,18 @@
     "location": "Hamburg, München, Düsseldorf, remote",
     "remote": false,
     "tags": [
-      "Permanent",
-      "Git",
-      "Experienced",
-      "Consulting",
       "GenAI",
-      "Solution Engineering",
+      "Permanent",
       "Forward Deployed Engineering",
-      "Founding Engineer",
+      "Git",
+      "Consulting",
       "FDE",
-      "Full time",
+      "Solution Engineering",
+      "Founding Engineer",
+      "Container",
       "Strategie",
-      "Container"
+      "Full time",
+      "Experienced"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -1819,22 +1819,22 @@
     "location": "Hamburg, München, Düsseldorf, remote",
     "remote": false,
     "tags": [
-      "Permanent",
-      "Azure",
-      "Cloud Engineering",
       "AWS",
-      "Experienced",
-      "GCP",
-      "Databricks",
-      "Consutling",
-      "Python",
       "Data Warehouse",
-      "ELT",
-      "Data Engineering",
+      "Permanent",
+      "Consutling",
       "Snowflake",
-      "SQL",
+      "ETL",
+      "Python",
+      "Azure",
+      "Data Engineering",
+      "ELT",
+      "Cloud Engineering",
       "Full time",
-      "ETL"
+      "Databricks",
+      "SQL",
+      "GCP",
+      "Experienced"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -1850,22 +1850,22 @@
     "location": "Hamburg, München, Düsseldorf, remote",
     "remote": false,
     "tags": [
-      "Permanent",
-      "Key Account Management",
       "Business Development",
-      "Supply Chain",
-      "Experienced",
-      "Consulting",
+      "Permanent",
       "Operations",
-      "Business Value Chain",
-      "Management Consulting",
-      "Engineering",
-      "Sales",
-      "Leadership",
+      "Supply Chain",
       "Manufacturing",
-      "Full time",
       "Digital Transformation",
-      "Production"
+      "Consulting",
+      "Production",
+      "Business Value Chain",
+      "Engineering",
+      "Leadership",
+      "Key Account Management",
+      "Full time",
+      "Sales",
+      "Management Consulting",
+      "Experienced"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -1882,17 +1882,17 @@
     "remote": false,
     "tags": [
       "Permanent",
-      "Supply Chain",
-      "Experienced",
-      "Consulting",
       "Operations",
-      "Business Value Chain",
-      "Management Consulting",
-      "Engineering",
-      "Full time",
+      "Supply Chain",
       "Manufacturing",
       "Digital Transformation",
-      "Production"
+      "Consulting",
+      "Production",
+      "Business Value Chain",
+      "Engineering",
+      "Full time",
+      "Management Consulting",
+      "Experienced"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -1908,8 +1908,8 @@
     "location": "München",
     "remote": false,
     "tags": [
-      "Permanent",
       "Full time",
+      "Permanent",
       "Experienced"
     ],
     "salary_raw": "",
@@ -1926,8 +1926,8 @@
     "location": "Hamburg",
     "remote": false,
     "tags": [
-      "Permanent",
       "Full time",
+      "Permanent",
       "Experienced"
     ],
     "salary_raw": "",
@@ -1944,21 +1944,21 @@
     "location": "Düsseldorf",
     "remote": false,
     "tags": [
-      "Düsseldorf",
-      "Software",
-      "Server",
-      "Trainee",
-      "Administration",
-      "Consulting",
-      "AI",
       "Windows",
-      "Linux",
-      "Full time",
-      "KI",
-      "Fachinformatiker",
-      "Entry",
+      "Server",
       "IT",
-      "Technik"
+      "Consulting",
+      "Technik",
+      "Fachinformatiker",
+      "Linux",
+      "Software",
+      "Trainee",
+      "AI",
+      "KI",
+      "Full time",
+      "Entry",
+      "Administration",
+      "Düsseldorf"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -1974,16 +1974,16 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "Manager",
-      "Permanent",
       "Business Development",
-      "deutch",
-      "Experienced",
-      "german",
+      "Manager",
       "DACH",
-      "Sales",
+      "german",
+      "Permanent",
+      "senior",
+      "deutch",
       "Full time",
-      "senior"
+      "Sales",
+      "Experienced"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -2031,8 +2031,8 @@
     "location": "Berlin",
     "remote": true,
     "tags": [
-      "Software Development",
-      "Remote"
+      "Remote",
+      "Software Development"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -2067,8 +2067,8 @@
     "tags": [
       "berufserfahren",
       "Remote",
-      "Consulting",
-      "Engineering"
+      "Engineering",
+      "Consulting"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -2084,8 +2084,8 @@
     "location": "Leipzig",
     "remote": false,
     "tags": [
-      "Software Development",
-      "teamleitung"
+      "teamleitung",
+      "Software Development"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -2101,8 +2101,8 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "🤩 Work with our clients",
-      "Full Time"
+      "Full Time",
+      "🤩 Work with our clients"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -2153,8 +2153,8 @@
     "remote": false,
     "tags": [
       "fulltime fixed term",
-      "Student college",
-      "Marketing"
+      "Marketing",
+      "Student college"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -2188,17 +2188,17 @@
     "remote": false,
     "tags": [
       "Permanent",
-      "CAP",
+      "CDS VIEWS",
+      "RAP",
       "LLM",
-      "SAP",
+      "EWM",
       "BTP",
-      "Experienced",
       "Node.js",
       "AI",
       "Full time",
-      "CDS VIEWS",
-      "EWM",
-      "RAP"
+      "SAP",
+      "CAP",
+      "Experienced"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -2214,8 +2214,8 @@
     "location": "Hamburg",
     "remote": false,
     "tags": [
-      "Permanent",
       "Full time",
+      "Permanent",
       "Experienced"
     ],
     "salary_raw": "",
@@ -2232,17 +2232,17 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "TypeScript",
       "Frontend Developer",
-      "Trainee",
-      "Next.js",
-      "Vue",
-      "Nuxt3",
-      "Full time",
-      "KI",
-      "Coding",
-      "JOIN",
       "React",
+      "Vue",
+      "Coding",
+      "TypeScript",
+      "Next.js",
+      "Nuxt3",
+      "JOIN",
+      "Trainee",
+      "KI",
+      "Full time",
       "Entry"
     ],
     "salary_raw": "",
@@ -2259,8 +2259,8 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "Permanent",
       "Full time",
+      "Permanent",
       "Experienced"
     ],
     "salary_raw": "",
@@ -2277,8 +2277,8 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "Permanent",
       "Full time",
+      "Permanent",
       "Experienced"
     ],
     "salary_raw": "",
@@ -2295,8 +2295,8 @@
     "location": "Frankfurt am Main",
     "remote": false,
     "tags": [
-      "Permanent",
       "Full time",
+      "Permanent",
       "Experienced"
     ],
     "salary_raw": "",
@@ -2313,8 +2313,8 @@
     "location": "Essen",
     "remote": false,
     "tags": [
-      "Permanent",
       "Full time",
+      "Permanent",
       "Experienced"
     ],
     "salary_raw": "",
@@ -2331,8 +2331,8 @@
     "location": "Essen",
     "remote": false,
     "tags": [
-      "Permanent",
       "Full time",
+      "Permanent",
       "Experienced"
     ],
     "salary_raw": "",
@@ -2349,15 +2349,15 @@
     "location": "Hybrid/München",
     "remote": false,
     "tags": [
-      "Webinare",
       "Permanent",
-      "Experienced",
-      "Messen",
+      "Webinare",
       "Partnerveranstaltungen",
-      "Full time",
+      "Messen",
+      "Partnership Marketing",
       "Eventmarketing",
       "Eventmanagement",
-      "Partnership Marketing"
+      "Full time",
+      "Experienced"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -2373,13 +2373,13 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "Experienced",
-      "Temporary",
-      "Recruiting",
       "HR",
+      "Recruiting",
+      "Experienced",
       "Full time",
-      "Healthcare",
-      "Private Equity"
+      "Private Equity",
+      "Temporary",
+      "Healthcare"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -2395,8 +2395,8 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "Social Media Manager",
-      "teamleitung"
+      "teamleitung",
+      "Social Media Manager"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -2444,8 +2444,8 @@
     "location": "Cologne",
     "remote": false,
     "tags": [
-      "manager",
-      "Strategic Marketing"
+      "Strategic Marketing",
+      "manager"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -2461,8 +2461,8 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "Software Development",
-      "professional / experienced"
+      "professional / experienced",
+      "Software Development"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -2705,8 +2705,8 @@
     "location": "London",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Engineering"
+      "Engineering",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -2807,8 +2807,8 @@
     "location": "UK, London",
     "remote": false,
     "tags": [
-      "CEO Office",
-      "Full Time"
+      "Full Time",
+      "CEO Office"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -2921,8 +2921,8 @@
     "location": "London, UK",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Forward Deployed Engineering"
+      "Forward Deployed Engineering",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -2938,8 +2938,8 @@
     "location": "London",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Delivery & Solutions"
+      "Delivery & Solutions",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -2955,9 +2955,9 @@
     "location": "London, Greater London, United Kingdom",
     "remote": false,
     "tags": [
-      "Mid",
+      "fulltime permanent",
       "Tech",
-      "fulltime permanent"
+      "Mid"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -2973,9 +2973,9 @@
     "location": "London, Greater London, United Kingdom",
     "remote": false,
     "tags": [
-      "Project Management",
       "fulltime permanent",
-      "Experienced"
+      "Experienced",
+      "Project Management"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -2991,9 +2991,9 @@
     "location": "London, Greater London, United Kingdom",
     "remote": false,
     "tags": [
-      "Mid",
+      "fulltime permanent",
       "Sales",
-      "fulltime permanent"
+      "Mid"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -3009,9 +3009,9 @@
     "location": "Manchester, Manchester, United Kingdom",
     "remote": false,
     "tags": [
-      "Mid",
+      "fulltime permanent",
       "Sales",
-      "fulltime permanent"
+      "Mid"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -3027,9 +3027,9 @@
     "location": "London, Greater London, United Kingdom",
     "remote": false,
     "tags": [
-      "Mid",
+      "fulltime permanent",
       "Engineering",
-      "fulltime permanent"
+      "Mid"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -3045,9 +3045,9 @@
     "location": "London, Greater London, United Kingdom",
     "remote": false,
     "tags": [
-      "Entry",
+      "fulltime permanent",
       "Sales",
-      "fulltime permanent"
+      "Entry"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -3219,8 +3219,8 @@
     "location": "Edinburgh",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Engineering"
+      "Engineering",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -3253,8 +3253,8 @@
     "location": "Edinburgh",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Engineering"
+      "Engineering",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -3287,8 +3287,8 @@
     "location": "London, England, United Kingdom",
     "remote": false,
     "tags": [
-      "United Kingdom",
       "fulltime permanent",
+      "United Kingdom",
       "Experienced"
     ],
     "salary_raw": "",
@@ -3796,8 +3796,8 @@
     "location": "Paris",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Delivery & Solutions"
+      "Delivery & Solutions",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -3813,8 +3813,8 @@
     "location": "Hybrid",
     "remote": false,
     "tags": [
-      "Permanent",
       "Full time",
+      "Permanent",
       "Experienced"
     ],
     "salary_raw": "",
@@ -3831,8 +3831,8 @@
     "location": "Paris, France",
     "remote": false,
     "tags": [
-      "Apparel & Fashion",
-      "Headquarters"
+      "Headquarters",
+      "Apparel & Fashion"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -3882,8 +3882,8 @@
     "location": "Paris",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Customer Success"
+      "Customer Success",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -3916,9 +3916,9 @@
     "location": "Saint-Etienne, Auvergne-Rhône-Alpes, France",
     "remote": false,
     "tags": [
-      "Ingénierie et services de la santé",
       "fulltime fixed term",
-      "Entry"
+      "Entry",
+      "Ingénierie et services de la santé"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -3934,8 +3934,8 @@
     "location": "Paris",
     "remote": false,
     "tags": [
-      "Temporary",
-      "Client Management"
+      "Client Management",
+      "Temporary"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -3951,8 +3951,8 @@
     "location": "Paris",
     "remote": false,
     "tags": [
-      "Temporary",
-      "Client Management"
+      "Client Management",
+      "Temporary"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -3968,8 +3968,8 @@
     "location": "Paris",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Corporate"
+      "Corporate",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -3985,8 +3985,8 @@
     "location": "Paris",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Corporate"
+      "Corporate",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -4003,8 +4003,8 @@
     "remote": false,
     "tags": [
       "Manager",
-      "Data",
-      "fulltime permanent"
+      "fulltime permanent",
+      "Data"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -4020,15 +4020,15 @@
     "location": "France",
     "remote": false,
     "tags": [
-      "Permanent",
       "Innovation Consulting",
-      "Experienced",
+      "Permanent",
       "CEF",
       "Horizon Europe",
       "Grant Writing",
-      "Full time",
       "Innovation Fund",
-      "LIFE"
+      "Full time",
+      "LIFE",
+      "Experienced"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -4044,8 +4044,8 @@
     "location": "Paris, France; Bordeaux, France; Lyon, France; Marseille, France; Biarritz, France; Nantes, France; Annecy, France; Madrid, Spain; Barcelona, Spain",
     "remote": false,
     "tags": [
-      "Business Strategy & Operations",
-      "Full Time"
+      "Full Time",
+      "Business Strategy & Operations"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -4061,8 +4061,8 @@
     "location": "Paris, France",
     "remote": false,
     "tags": [
-      "Business Strategy & Operations",
-      "Full Time"
+      "Full Time",
+      "Business Strategy & Operations"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -4095,8 +4095,8 @@
     "location": "Paris, France",
     "remote": false,
     "tags": [
-      "Business Strategy & Operations",
-      "Full Time"
+      "Full Time",
+      "Business Strategy & Operations"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -4282,8 +4282,8 @@
     "location": "Paris, France",
     "remote": false,
     "tags": [
-      "Work Environment",
-      "Full Time"
+      "Full Time",
+      "Work Environment"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -4316,8 +4316,8 @@
     "location": "Paris, France",
     "remote": false,
     "tags": [
-      "Work Environment",
-      "Full Time"
+      "Full Time",
+      "Work Environment"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -4401,9 +4401,9 @@
     "location": "Toulouse, Montpellier, Occitanie, France",
     "remote": false,
     "tags": [
-      "Mid",
       "Network Development",
-      "fulltime permanent"
+      "fulltime permanent",
+      "Mid"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -4419,8 +4419,8 @@
     "location": "Paris (FR)",
     "remote": false,
     "tags": [
-      "Full-time",
-      "Finance"
+      "Finance",
+      "Full-time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -4436,8 +4436,8 @@
     "location": "France",
     "remote": false,
     "tags": [
-      "Full-time",
-      "Account Executive"
+      "Account Executive",
+      "Full-time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -4453,11 +4453,11 @@
     "location": "Paris, France",
     "remote": false,
     "tags": [
-      "Archimed",
       "associate",
+      "Archimed",
       "Venture Capital & Private Equity",
-      "Information Technology",
-      "Full time"
+      "Full time",
+      "Information Technology"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -4473,11 +4473,11 @@
     "location": "Lyon, France",
     "remote": false,
     "tags": [
-      "Archimed",
       "associate",
+      "Archimed",
       "Venture Capital & Private Equity",
-      "Information Technology",
-      "Full time"
+      "Full time",
+      "Information Technology"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -4493,8 +4493,8 @@
     "location": "Hybrid",
     "remote": false,
     "tags": [
-      "Part time",
       "Entry",
+      "Part time",
       "Working student"
     ],
     "salary_raw": "",
@@ -4546,8 +4546,8 @@
     "remote": true,
     "tags": [
       "fulltime permanent",
-      "Product",
       "Remote",
+      "Product",
       "Experienced"
     ],
     "salary_raw": "",
@@ -4895,8 +4895,8 @@
     "location": "Toulouse, Occitanie",
     "remote": false,
     "tags": [
-      "AI Marketplace",
-      "Full time"
+      "Full time",
+      "AI Marketplace"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -4957,11 +4957,11 @@
     "location": "Saclay, France",
     "remote": false,
     "tags": [
-      "Data Analyst",
-      "mid-senior",
       "Operations",
+      "Pharmaceuticals",
       "Full time",
-      "Pharmaceuticals"
+      "mid-senior",
+      "Data Analyst"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -4977,11 +4977,11 @@
     "location": "Bolbec, France",
     "remote": false,
     "tags": [
-      "Data Analyst",
-      "mid-senior",
       "Operations",
+      "Pharmaceuticals",
       "Full time",
-      "Pharmaceuticals"
+      "mid-senior",
+      "Data Analyst"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -5048,8 +5048,8 @@
     "location": "Paris, France",
     "remote": false,
     "tags": [
-      "Luxury Goods & Jewelry",
       "Business Development",
+      "Luxury Goods & Jewelry",
       "Full time"
     ],
     "salary_raw": "",
@@ -5114,8 +5114,8 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Tech"
+      "Tech",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -5131,8 +5131,8 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Customer Success"
+      "Customer Success",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -5148,8 +5148,8 @@
     "location": "Frankfurt",
     "remote": false,
     "tags": [
-      "Data",
-      "Part Time"
+      "Part Time",
+      "Data"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -5165,8 +5165,8 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Customer Success"
+      "Customer Success",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -5199,8 +5199,8 @@
     "location": "Germany",
     "remote": false,
     "tags": [
-      "Full Time",
-      "ondeso"
+      "ondeso",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -5284,8 +5284,8 @@
     "location": "Hamburg",
     "remote": false,
     "tags": [
-      "adjoe",
-      "Full Time"
+      "Full Time",
+      "adjoe"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -5301,8 +5301,8 @@
     "location": "Hamburg",
     "remote": false,
     "tags": [
-      "adjoe",
-      "Full Time"
+      "Full Time",
+      "adjoe"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -5318,9 +5318,9 @@
     "location": "Berlin, Germany",
     "remote": false,
     "tags": [
-      "Insurance",
+      "Full time",
       "Sales",
-      "Full time"
+      "Insurance"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -5336,15 +5336,15 @@
     "location": "Garching b. München (DE)",
     "remote": false,
     "tags": [
-      "IT System Administration",
       "Working Student",
-      "IT Support",
+      "Microsoft 365",
+      "IT System Administration",
       "Part time",
       "Intern",
+      "Quantum Computing",
       "1st Level Support",
       "Entry",
-      "Quantum Computing",
-      "Microsoft 365"
+      "IT Support"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -5360,15 +5360,15 @@
     "location": "Nürnberg",
     "remote": false,
     "tags": [
-      "Kommunikation",
-      "Student",
       "Social Media",
+      "Kommunikation",
       "Part time",
       "Intern",
-      "Sales",
-      "Vertrieb",
       "Events",
-      "Marketing"
+      "Marketing",
+      "Vertrieb",
+      "Sales",
+      "Student"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -5385,14 +5385,14 @@
     "remote": false,
     "tags": [
       "Permanent",
+      "Agentic Engineering",
+      "Agents",
       "LLM",
       "Experienced",
-      "Agentic Engineering",
       "AI",
-      "Software Entwicklung",
+      "KI",
       "Full time",
-      "Agents",
-      "KI"
+      "Software Entwicklung"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -5408,14 +5408,14 @@
     "location": "Bremen",
     "remote": false,
     "tags": [
-      "Prozessmanagement",
       "Permanent",
-      "Experienced",
       "Projektmanagement",
+      "Prozessmanagement",
       "Post Merger Integration",
-      "Management Consulting",
+      "Post Merger",
       "Full time",
-      "Post Merger"
+      "Management Consulting",
+      "Experienced"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -5431,21 +5431,21 @@
     "location": "Brunswick (Germany)",
     "remote": false,
     "tags": [
-      "Student Job",
-      "Recruiting Support",
       "Working Student",
-      "Part-time",
-      "Talent Acquisition",
-      "Working student",
+      "HR",
+      "Recruiting Support",
       "Part time",
-      "Onboarding",
       "Interview Coordination",
+      "Human Resources",
+      "Candidate Management",
       "Recruiting",
       "Braunschweig",
-      "HR",
-      "Human Resources",
       "Entry",
-      "Candidate Management"
+      "Part-time",
+      "Working student",
+      "Talent Acquisition",
+      "Student Job",
+      "Onboarding"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -5462,16 +5462,16 @@
     "remote": false,
     "tags": [
       "Permanent",
-      "Astrodynamics",
-      "SSA",
-      "Experienced",
       "Aerospace Engineering",
       "SST",
-      "Full time",
-      "Engineering",
+      "Start-Up",
+      "SSA",
       "Programming",
       "Space Debrs",
-      "Start-Up"
+      "Engineering",
+      "Experienced",
+      "Full time",
+      "Astrodynamics"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -5487,25 +5487,25 @@
     "location": "Flagship Store Hannover",
     "remote": false,
     "tags": [
-      "Student",
-      "Verkäuferin",
-      "Store Mitarbeiterin",
-      "Schnaps",
-      "Studium",
       "Werkstudent",
-      "Entry",
-      "Join",
-      "Verkauf",
-      "Part time",
-      "Werkstudentin",
-      "Promotions",
       "Verkäufer",
-      "Kundenberatung",
       "Store Mitarbeiter",
-      "Kommunikation",
+      "Schnaps",
       "Promoterin",
+      "Studium",
+      "Entry",
+      "Promotions",
+      "Verkauf",
+      "Kundenberatung",
+      "Kundenbetreuung",
+      "Student",
+      "Kommunikation",
+      "Part time",
+      "Verkäuferin",
+      "Werkstudentin",
       "Working student",
-      "Kundenbetreuung"
+      "Join",
+      "Store Mitarbeiterin"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -5521,8 +5521,8 @@
     "location": "Cologne (GER)",
     "remote": false,
     "tags": [
-      "Permanent",
       "Full time",
+      "Permanent",
       "Experienced"
     ],
     "salary_raw": "",
@@ -5539,8 +5539,8 @@
     "location": "Cologne (GER)",
     "remote": false,
     "tags": [
-      "Permanent",
       "Full time",
+      "Permanent",
       "Experienced"
     ],
     "salary_raw": "",
@@ -5574,8 +5574,8 @@
     "location": "Remote - Germany",
     "remote": false,
     "tags": [
-      "Integration Engineering",
-      "Full time"
+      "Full time",
+      "Integration Engineering"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -5591,8 +5591,8 @@
     "location": "Cologne",
     "remote": false,
     "tags": [
-      "berufserfahren",
-      "Customer Service"
+      "Customer Service",
+      "berufserfahren"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -5608,9 +5608,9 @@
     "location": "Mülheim",
     "remote": true,
     "tags": [
-      "Software Development",
       "Remote",
-      "Internship"
+      "Internship",
+      "Software Development"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -5643,9 +5643,9 @@
     "location": "Hamburg",
     "remote": false,
     "tags": [
-      "Online Marketing",
       "hilfstätigkeit / student",
-      "Working student"
+      "Working student",
+      "Online Marketing"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -5662,8 +5662,8 @@
     "remote": true,
     "tags": [
       "Remote",
-      "Consulting",
-      "Engineering"
+      "Engineering",
+      "Consulting"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -5679,8 +5679,8 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "Public Relations",
       "Corporate Communication",
+      "Public Relations",
       "Working student"
     ],
     "salary_raw": "",
@@ -5697,9 +5697,9 @@
     "location": "Greven",
     "remote": true,
     "tags": [
-      "berufserfahren",
       "Remote",
-      "Recruitment and Selection"
+      "Recruitment and Selection",
+      "berufserfahren"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -5734,9 +5734,9 @@
     "location": "Cologne",
     "remote": true,
     "tags": [
-      "Software Development",
       "Remote",
-      "berufserfahren"
+      "berufserfahren",
+      "Software Development"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -5752,8 +5752,8 @@
     "location": "Kulmbach",
     "remote": false,
     "tags": [
-      "berufserfahren",
-      "Personnel Specialist"
+      "Personnel Specialist",
+      "berufserfahren"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -5769,8 +5769,8 @@
     "location": "Würzburg",
     "remote": false,
     "tags": [
-      "berufserfahren",
-      "IT"
+      "IT",
+      "berufserfahren"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -5786,10 +5786,10 @@
     "location": "Nördlingen",
     "remote": true,
     "tags": [
-      "Development",
       "SAP/ERP Consulting",
-      "berufserfahren",
-      "Remote"
+      "Development",
+      "Remote",
+      "berufserfahren"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -5805,9 +5805,9 @@
     "location": "Hamburg",
     "remote": false,
     "tags": [
-      "berufserfahren",
       "Marketing and Communication",
-      "Working student"
+      "Working student",
+      "berufserfahren"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -5824,8 +5824,8 @@
     "remote": true,
     "tags": [
       "Finance",
-      "berufserfahren",
-      "Remote"
+      "Remote",
+      "berufserfahren"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -5841,8 +5841,8 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "berufserfahren",
-      "Consulting"
+      "Consulting",
+      "berufserfahren"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -5922,8 +5922,8 @@
     "location": "Ottobrunn, Bavaria; Parsdorf, Bavaria",
     "remote": false,
     "tags": [
-      "Operations & Quality",
-      "Production"
+      "Production",
+      "Operations & Quality"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -6115,8 +6115,8 @@
     "location": "Germany",
     "remote": false,
     "tags": [
-      "Project Management",
-      "Full Time"
+      "Full Time",
+      "Project Management"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -6183,8 +6183,8 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "berufserfahren",
-      "Customer Service"
+      "Customer Service",
+      "berufserfahren"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -6216,8 +6216,8 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "berufserfahren",
-      "Product Management"
+      "Product Management",
+      "berufserfahren"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -6233,8 +6233,8 @@
     "location": "Memmingen",
     "remote": false,
     "tags": [
-      "Software Development",
-      "berufserfahren"
+      "berufserfahren",
+      "Software Development"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -6268,8 +6268,8 @@
     "location": "Berlin, Berlin, Deutschland",
     "remote": false,
     "tags": [
-      "Entry",
-      "fulltime permanent"
+      "fulltime permanent",
+      "Entry"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -6285,8 +6285,8 @@
     "location": "Saerbeck, Nordrhein-Westfalen, Deutschland",
     "remote": false,
     "tags": [
-      "Entry",
-      "fulltime permanent"
+      "fulltime permanent",
+      "Entry"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -6302,8 +6302,8 @@
     "location": "Lohne (Oldenburg), Niedersachsen, Deutschland",
     "remote": false,
     "tags": [
-      "Entry",
-      "fulltime permanent"
+      "fulltime permanent",
+      "Entry"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -6319,9 +6319,9 @@
     "location": "Bielefeld, Nordrhein-Westfalen, Deutschland",
     "remote": false,
     "tags": [
-      "Mid",
       "Business Development",
-      "fulltime permanent"
+      "fulltime permanent",
+      "Mid"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -6337,9 +6337,9 @@
     "location": "Offenbach am Main, Hessen, Deutschland",
     "remote": false,
     "tags": [
+      "Student college",
       "eCommerce OFB",
-      "parttime fixed term",
-      "Student college"
+      "parttime fixed term"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -6356,8 +6356,8 @@
     "remote": false,
     "tags": [
       "Production & Logistics",
-      "parttime fixed term",
-      "Student college"
+      "Student college",
+      "parttime fixed term"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -6373,8 +6373,8 @@
     "location": "Germany",
     "remote": false,
     "tags": [
-      "Full-time",
-      "Account Executive"
+      "Account Executive",
+      "Full-time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -6390,8 +6390,8 @@
     "location": "Hamburg",
     "remote": false,
     "tags": [
-      "Permanent",
       "Full time",
+      "Permanent",
       "Experienced"
     ],
     "salary_raw": "",
@@ -6409,8 +6409,8 @@
     "remote": false,
     "tags": [
       "Part time",
-      "Intern",
-      "Student"
+      "Student",
+      "Intern"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -6427,8 +6427,8 @@
     "remote": false,
     "tags": [
       "Part time",
-      "Intern",
-      "Student"
+      "Student",
+      "Intern"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -6444,20 +6444,20 @@
     "location": "Saarbrücken",
     "remote": false,
     "tags": [
-      "Permanent",
-      "Experienced",
-      "SCADA Engineer",
-      "SCADA-Manager",
-      "Monitoring-Systeme",
-      "Plant-Control-Ingenieur",
-      "Commissioning",
-      "BESS",
-      "EPC",
-      "Supplier Management",
-      "Utility-Scale",
       "Energy Infrastructure",
-      "Automation Engineering",
-      "Full time"
+      "Permanent",
+      "Supplier Management",
+      "Commissioning",
+      "SCADA-Manager",
+      "EPC",
+      "BESS",
+      "SCADA Engineer",
+      "Experienced",
+      "Monitoring-Systeme",
+      "Full time",
+      "Plant-Control-Ingenieur",
+      "Utility-Scale",
+      "Automation Engineering"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -6475,14 +6475,14 @@
     "tags": [
       "Traineeship",
       "intern",
-      "Internship",
       "Praktikum Finanzen",
-      "Praktikum",
       "trainee",
-      "Intern",
-      "Full time",
-      "Praktikant",
       "Pflichtpraktikum Finance (m/w/d)",
+      "Praktikum",
+      "Internship",
+      "Intern",
+      "Praktikant",
+      "Full time",
       "Entry"
     ],
     "salary_raw": "",
@@ -6499,8 +6499,8 @@
     "location": "München",
     "remote": false,
     "tags": [
-      "Part time",
       "Student",
+      "Part time",
       "Working student"
     ],
     "salary_raw": "",
@@ -6517,12 +6517,12 @@
     "location": "Munich",
     "remote": false,
     "tags": [
+      "Business Development",
       "Permanent",
       "Drug Discovery",
-      "Business Development",
-      "Executive",
       "Full time",
-      "Structural Biology"
+      "Structural Biology",
+      "Executive"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -6538,33 +6538,33 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "KI Tools",
-      "Innovation",
-      "Arbeitsrechtskanzlei",
-      "Entry",
-      "Werkstudium",
-      "BWL Studium",
-      "Part time",
-      "Innovation Management",
-      "MS Suite",
-      "Project Management",
-      "Legal Tech Lösungen",
-      "MS CoPilot",
-      "Wirtschaftsrecht",
-      "Deutsch C1",
       "Kanzlei Jobs",
-      "Studium Berlin",
-      "Legal Tech Produkte",
-      "Legal Tech",
-      "Working student",
-      "Berlin Kanzlei",
-      "KI Lösungen",
-      "KI Anwendungen",
-      "KI-Enablement",
-      "Arbeitsrecht",
-      "BWL",
       "Deutsch C2",
-      "Berlin Jobs"
+      "Entry",
+      "KI Anwendungen",
+      "KI Lösungen",
+      "Werkstudium",
+      "Legal Tech",
+      "BWL",
+      "KI-Enablement",
+      "KI Tools",
+      "Wirtschaftsrecht",
+      "Legal Tech Produkte",
+      "MS CoPilot",
+      "Arbeitsrechtskanzlei",
+      "Deutsch C1",
+      "Innovation Management",
+      "Berlin Kanzlei",
+      "Arbeitsrecht",
+      "Berlin Jobs",
+      "BWL Studium",
+      "Legal Tech Lösungen",
+      "Part time",
+      "Project Management",
+      "MS Suite",
+      "Innovation",
+      "Working student",
+      "Studium Berlin"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -6580,19 +6580,19 @@
     "location": "Berlin HQ",
     "remote": false,
     "tags": [
-      "MinIO",
-      "Data Platform",
-      "Experienced",
-      "Climate",
-      "PostgreSQL",
-      "Freelance",
       "1.5",
-      "Linux",
-      "Data Engineering",
-      "GitLab",
+      "MinIO",
       "DevOps",
+      "Linux",
+      "Environment",
+      "PostgreSQL",
+      "Data Engineering",
+      "Freelance",
+      "Climate",
+      "Data Platform",
+      "GitLab",
       "Full time",
-      "Environment"
+      "Experienced"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -6608,16 +6608,16 @@
     "location": "Berlin HQ",
     "remote": false,
     "tags": [
-      "Data Platform",
-      "Climate Policy",
-      "Experienced",
       "Fixed term",
+      "nonprofit",
       "NGO",
       "Python",
-      "Data Engineer",
-      "nonprofit",
+      "Experienced",
+      "Data Platform",
+      "Climate Policy",
+      "Full time",
       "SQL",
-      "Full time"
+      "Data Engineer"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -6650,8 +6650,8 @@
     "location": "Berlin",
     "remote": true,
     "tags": [
-      "Remote",
       "professional / experienced",
+      "Remote",
       "Engineering"
     ],
     "salary_raw": "",
@@ -6718,8 +6718,8 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "berufserfahren",
-      "Marketing and Communication"
+      "Marketing and Communication",
+      "berufserfahren"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -6765,8 +6765,8 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "berufserfahren",
-      "Online Marketing"
+      "Online Marketing",
+      "berufserfahren"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -6815,9 +6815,9 @@
     "location": "Frankfurt am Main",
     "remote": false,
     "tags": [
-      "Management",
+      "Team Leader",
       "teamleitung",
-      "Team Leader"
+      "Management"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -6850,8 +6850,8 @@
     "remote": false,
     "tags": [
       "Contract",
-      "berufserfahren",
-      "Consulting"
+      "Consulting",
+      "berufserfahren"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -6900,9 +6900,9 @@
     "location": "Berlin",
     "remote": true,
     "tags": [
-      "Online Marketing",
+      "hilfstätigkeit / student",
       "Remote",
-      "hilfstätigkeit / student"
+      "Online Marketing"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -6935,8 +6935,8 @@
     "location": "London",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Tech"
+      "Tech",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -6986,8 +6986,8 @@
     "location": "London",
     "remote": false,
     "tags": [
-      "Full-time",
-      "Business Development"
+      "Business Development",
+      "Full-time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -7003,8 +7003,8 @@
     "location": "London",
     "remote": false,
     "tags": [
-      "Subscriptions R&D",
-      "Permanent"
+      "Permanent",
+      "Subscriptions R&D"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -7112,8 +7112,8 @@
     "location": "Remote (UK)",
     "remote": false,
     "tags": [
-      "CoO",
-      "Temporary"
+      "Temporary",
+      "CoO"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -7197,8 +7197,8 @@
     "location": "London, United Kingdom",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Engineering"
+      "Engineering",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -7214,8 +7214,8 @@
     "location": "Winnersh",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Montu"
+      "Montu",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -7248,8 +7248,8 @@
     "location": "London, Greater London, United Kingdom",
     "remote": false,
     "tags": [
-      "Projects",
       "fulltime permanent",
+      "Projects",
       "Experienced"
     ],
     "salary_raw": "",
@@ -7266,8 +7266,8 @@
     "location": "UK",
     "remote": false,
     "tags": [
-      "Full-time",
-      "Account Executive"
+      "Account Executive",
+      "Full-time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -7283,9 +7283,9 @@
     "location": "London",
     "remote": false,
     "tags": [
-      "Management",
+      "Team Leader",
       "manager",
-      "Team Leader"
+      "Management"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -7385,8 +7385,8 @@
     "location": "London Office",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Lending & Operations"
+      "Lending & Operations",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -7571,8 +7571,8 @@
     "location": "London",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Engineering"
+      "Engineering",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -7588,8 +7588,8 @@
     "location": "London",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Engineering"
+      "Engineering",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -7605,8 +7605,8 @@
     "location": "London",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Engineering"
+      "Engineering",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -7656,8 +7656,8 @@
     "location": "London",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Engineering"
+      "Engineering",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -7741,8 +7741,8 @@
     "location": "London",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Engineering"
+      "Engineering",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -7758,8 +7758,8 @@
     "location": "London",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Engineering"
+      "Engineering",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -7808,8 +7808,8 @@
     "location": "United Kingdom",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Engineering"
+      "Engineering",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -7825,8 +7825,8 @@
     "location": "United Kingdom",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Engineering"
+      "Engineering",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -7842,8 +7842,8 @@
     "location": "London",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Risk"
+      "Risk",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -8012,8 +8012,8 @@
     "location": "London",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Legal"
+      "Legal",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -8073,8 +8073,8 @@
     "location": "London",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Office of the CISO"
+      "Office of the CISO",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -8199,8 +8199,8 @@
     "location": "France",
     "remote": false,
     "tags": [
-      "Full-time",
-      "Account Executive"
+      "Account Executive",
+      "Full-time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -8216,8 +8216,8 @@
     "location": "France",
     "remote": true,
     "tags": [
-      "Remote",
-      "Internal - Operations"
+      "Internal - Operations",
+      "Remote"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -8265,19 +8265,19 @@
     "location": "Paris",
     "remote": false,
     "tags": [
-      "Faculty",
-      "spanish",
-      "Experienced",
-      "Teachers",
       "Undergraduate",
+      "Teachers",
+      "Part time",
       "Postgraduate",
       "Madrid",
-      "Paris",
-      "Part time",
       "Freelance",
-      "University",
+      "Faculty",
+      "instructor",
       "Academic",
-      "instructor"
+      "spanish",
+      "Paris",
+      "University",
+      "Experienced"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -8293,17 +8293,17 @@
     "location": "Paris",
     "remote": false,
     "tags": [
-      "Permanent",
-      "faculty",
-      "university",
-      "director",
-      "diplomacy",
-      "Experienced",
-      "quality",
-      "support",
       "international relations",
+      "faculty",
+      "director",
+      "Permanent",
+      "support",
+      "university",
+      "quality",
       "students",
-      "Full time"
+      "Full time",
+      "diplomacy",
+      "Experienced"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -8490,9 +8490,9 @@
     "location": "Paris, Île-de-France, France",
     "remote": false,
     "tags": [
-      "Entry",
+      "fulltime permanent",
       "Sales",
-      "fulltime permanent"
+      "Entry"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -8508,9 +8508,9 @@
     "location": "Paris, Île-de-France, France",
     "remote": false,
     "tags": [
-      "Entry",
+      "fulltime permanent",
       "Sales",
-      "fulltime permanent"
+      "Entry"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -8526,9 +8526,9 @@
     "location": "Paris, Île-de-France, France",
     "remote": false,
     "tags": [
-      "Mid",
+      "fulltime permanent",
       "Sales",
-      "fulltime permanent"
+      "Mid"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -8544,9 +8544,9 @@
     "location": "Paris, Île-de-France, France",
     "remote": false,
     "tags": [
-      "Mid",
+      "fulltime permanent",
       "Sales",
-      "fulltime permanent"
+      "Mid"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -8580,9 +8580,9 @@
     "location": "Paris, Île-de-France, France",
     "remote": false,
     "tags": [
-      "Entry",
+      "fulltime permanent",
       "Sales",
-      "fulltime permanent"
+      "Entry"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -8598,8 +8598,8 @@
     "location": "Remote job",
     "remote": true,
     "tags": [
-      "Remote",
       "fulltime permanent",
+      "Remote",
       "Tech",
       "Experienced"
     ],
@@ -8733,8 +8733,8 @@
     "location": "Remote",
     "remote": false,
     "tags": [
-      "Core",
-      "Full Time"
+      "Full Time",
+      "Core"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -8801,9 +8801,9 @@
     "location": "Lyon, Saint Priest, Auvergne-Rhône-Alpes, France",
     "remote": false,
     "tags": [
-      "Mid",
       "fulltime fixed term",
-      "Sales"
+      "Sales",
+      "Mid"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -8820,8 +8820,8 @@
     "remote": false,
     "tags": [
       "R&D",
-      "Mid",
-      "fulltime permanent"
+      "fulltime permanent",
+      "Mid"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -8838,9 +8838,9 @@
     "remote": true,
     "tags": [
       "Dev",
-      "Mid",
       "Remote",
-      "fulltime permanent"
+      "fulltime permanent",
+      "Mid"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -8874,8 +8874,8 @@
     "location": "Paris, France",
     "remote": false,
     "tags": [
-      "Apparel & Fashion",
-      "Headquarters"
+      "Headquarters",
+      "Apparel & Fashion"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -9005,8 +9005,8 @@
     "location": "Remote",
     "remote": false,
     "tags": [
-      "Contract",
-      "Acceleration"
+      "Acceleration",
+      "Contract"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -9039,8 +9039,8 @@
     "location": "Remote",
     "remote": false,
     "tags": [
-      "Contract",
-      "Acceleration"
+      "Acceleration",
+      "Contract"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -9056,9 +9056,9 @@
     "location": "Remote job",
     "remote": true,
     "tags": [
-      "Remote",
       "fulltime permanent",
       "Sales",
+      "Remote",
       "Experienced"
     ],
     "salary_raw": "",
@@ -9075,9 +9075,9 @@
     "location": "Remote job",
     "remote": true,
     "tags": [
-      "Remote",
       "fulltime permanent",
       "Sales",
+      "Remote",
       "Experienced"
     ],
     "salary_raw": "",
@@ -9094,11 +9094,11 @@
     "location": "France",
     "remote": true,
     "tags": [
+      "Logistics and Supply Chain",
+      "Remote",
       "associate",
       "G&A",
-      "Remote",
       "Full time",
-      "Logistics and Supply Chain",
       "General Business"
     ],
     "salary_raw": "",
@@ -9449,8 +9449,8 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "berufserfahren",
-      "Marketing and Communication"
+      "Marketing and Communication",
+      "berufserfahren"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -9483,9 +9483,9 @@
     "location": "Hamburg",
     "remote": true,
     "tags": [
-      "Software Development",
       "Remote",
-      "berufserfahren"
+      "berufserfahren",
+      "Software Development"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -9501,8 +9501,8 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "berufserfahren",
-      "Marketing and Communication"
+      "Marketing and Communication",
+      "berufserfahren"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -9518,8 +9518,8 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "berufserfahren",
-      "Marketing and Communication"
+      "Marketing and Communication",
+      "berufserfahren"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -9535,9 +9535,9 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "Working student",
       "entry",
-      "IT Security"
+      "IT Security",
+      "Working student"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -9553,8 +9553,8 @@
     "location": "Kevelaer",
     "remote": true,
     "tags": [
-      "Social Media Manager",
-      "Remote"
+      "Remote",
+      "Social Media Manager"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -9586,8 +9586,8 @@
     "location": "Munich",
     "remote": false,
     "tags": [
-      "berufserfahren",
-      "Marketing and Communication"
+      "Marketing and Communication",
+      "berufserfahren"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -9683,8 +9683,8 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Engineering"
+      "Engineering",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -9700,8 +9700,8 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Engineering"
+      "Engineering",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -9717,8 +9717,8 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Engineering"
+      "Engineering",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -9734,8 +9734,8 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Engineering"
+      "Engineering",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -9751,8 +9751,8 @@
     "location": "Onsite Berlin",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Engineering"
+      "Engineering",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -9768,8 +9768,8 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "Full Time",
-      "Engineering"
+      "Engineering",
+      "Full Time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -9801,8 +9801,8 @@
     "location": "Stuttgart",
     "remote": false,
     "tags": [
-      "Internship",
-      "Engineering"
+      "Engineering",
+      "Internship"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -9818,9 +9818,9 @@
     "location": "Dresden",
     "remote": false,
     "tags": [
-      "Management",
+      "Team Leader",
       "berufserfahren",
-      "Team Leader"
+      "Management"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -9836,8 +9836,8 @@
     "location": "Frankfurt am Main, Hessen, Deutschland",
     "remote": false,
     "tags": [
-      "Entry",
-      "fulltime permanent"
+      "fulltime permanent",
+      "Entry"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -9853,9 +9853,9 @@
     "location": "Viersen, Nordrhein-Westfalen, Deutschland",
     "remote": false,
     "tags": [
+      "fulltime permanent",
       "Hansella",
-      "Mid",
-      "fulltime permanent"
+      "Mid"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -9871,8 +9871,8 @@
     "location": "Donaueschingen",
     "remote": false,
     "tags": [
-      "Full-time fixed-term",
       "Finance",
+      "Full-time fixed-term",
       "mid",
       "vocational"
     ],
@@ -9890,8 +9890,8 @@
     "location": "Germany",
     "remote": true,
     "tags": [
-      "Information Technology and Services",
-      "Remote"
+      "Remote",
+      "Information Technology and Services"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -9925,8 +9925,8 @@
     "location": "Remote Deutschland",
     "remote": false,
     "tags": [
-      "Permanent",
       "Full time",
+      "Permanent",
       "Experienced"
     ],
     "salary_raw": "",
@@ -9943,18 +9943,18 @@
     "location": "Bundesgeschäftsstelle (Berlin)",
     "remote": false,
     "tags": [
-      "Politik",
-      "Full or part time",
-      "Rechnungswesen",
-      "Wirtschaft",
-      "Buchhaltung",
-      "Experienced",
-      "Debitor",
       "Temporary",
+      "Wirtschaft",
       "Controlling",
-      "Finanzen",
       "Verband",
-      "Wirtschaftsrat"
+      "Debitor",
+      "Finanzen",
+      "Rechnungswesen",
+      "Buchhaltung",
+      "Full or part time",
+      "Wirtschaftsrat",
+      "Politik",
+      "Experienced"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -9970,13 +9970,13 @@
     "location": "LGS Bremen (Bremen)",
     "remote": false,
     "tags": [
-      "Politik",
-      "Full or part time",
       "Wirtschaft",
       "Intern",
       "Praktikant",
+      "Full or part time",
+      "Wirtschaftsrat",
       "Entry",
-      "Wirtschaftsrat"
+      "Politik"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -9992,31 +9992,31 @@
     "location": "Hannover",
     "remote": false,
     "tags": [
-      "Student",
-      "Analyse",
-      "Prozesse",
-      "Full time",
+      "Beru",
+      "Daten",
+      "Prozessotpimierung",
+      "Dartensicherung",
+      "Konzepte",
+      "Prozess",
+      "Qualität",
+      "Ausbildung",
+      "Netzwerk",
+      "Prozessanalyse",
       "Datenanalyse",
+      "Prozesse",
+      "Analyse",
+      "Full time",
+      "Hannover",
+      "Datenschutz",
+      "Zugriffkonzepte",
+      "Fachinformatikerin",
+      "Student",
+      "Computer",
       "Fachinformatiker",
       "Logisches Denken",
-      "Prozess",
-      "Ausbildung",
-      "Datenschutz",
-      "Netzwerk",
-      "Konzepte",
-      "2025",
-      "Hannover",
-      "Trainee",
-      "Zugriffkonzepte",
-      "Computer",
-      "Beru",
-      "Prozessanalyse",
-      "Dartensicherung",
       "Datenhaltung",
-      "Qualität",
-      "Fachinformatikerin",
-      "Prozessotpimierung",
-      "Daten"
+      "2025",
+      "Trainee"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -10032,34 +10032,34 @@
     "location": "Hannover",
     "remote": false,
     "tags": [
-      "Fussball",
+      "Katze",
+      "Daten",
+      "HTML",
+      "Ausbildung",
+      "Anwendugsentwicklung",
+      "Handball",
+      "SQL",
+      "Full time",
+      "Hannover",
+      "PHP",
+      "JavaScript",
+      "Berufsschule",
+      "Entwicklung",
+      "Datenbanken",
       "Software",
+      "Fachinformatikerin",
+      "Planung",
+      "Iphone",
       "Hund",
       "Student",
       "Multi Media",
-      "Katze",
-      "Entwicklung",
-      "Full time",
       "Fachinformatiker",
-      "Berufsschule",
-      "Anwendung",
       "Logisches Denken",
-      "Datenbanken",
+      "Anwendung",
       "Programmierung",
-      "Ausbildung",
-      "Anwendugsentwicklung",
-      "Hannover",
-      "Handball",
-      "Planung",
+      "Fussball",
       "Trainee",
-      "CSS",
-      "SQL",
-      "PHP",
-      "HTML",
-      "JavaScript",
-      "Fachinformatikerin",
-      "Iphone",
-      "Daten"
+      "CSS"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -10077,13 +10077,13 @@
     "tags": [
       "Permanent",
       "Excel",
-      "Experienced",
-      "ERP",
-      "Looker",
-      "FashionXL",
       "Finance",
       "Controlling",
-      "Full time"
+      "Looker",
+      "ERP",
+      "Full time",
+      "FashionXL",
+      "Experienced"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -10099,16 +10099,16 @@
     "location": "Munich",
     "remote": false,
     "tags": [
-      "Automotive",
-      "Key Account Manager",
-      "AE",
       "Permanent",
-      "Account Executive",
-      "Experienced",
+      "AE",
+      "SaaS",
       "KAM",
-      "Sales",
+      "Automotive",
+      "Account Executive",
       "Full time",
-      "SaaS"
+      "Sales",
+      "Key Account Manager",
+      "Experienced"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -10124,8 +10124,8 @@
     "location": "Munich",
     "remote": false,
     "tags": [
-      "Permanent",
       "Full time",
+      "Permanent",
       "Experienced"
     ],
     "salary_raw": "",
@@ -10144,14 +10144,14 @@
     "tags": [
       "Permanent",
       "Business",
-      "Executive",
-      "ITSM",
-      "Management",
-      "Digital Transformation",
-      "Full time",
       "Consultancy",
+      "ITSM",
+      "Intelligence",
+      "Digital Transformation",
       "Strategy",
-      "Intelligence"
+      "Management",
+      "Full time",
+      "Executive"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -10168,15 +10168,15 @@
     "remote": false,
     "tags": [
       "Permanent",
-      "informatics",
-      "Experienced",
+      "Full Stack Development",
+      "javascript",
       "scrum",
       "node.js",
-      "javascript",
-      "Full time",
       "code",
-      "Full Stack Development",
-      "ehealth"
+      "Experienced",
+      "ehealth",
+      "Full time",
+      "informatics"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -10192,8 +10192,8 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "Permanent",
       "Full time",
+      "Permanent",
       "Experienced"
     ],
     "salary_raw": "",
@@ -10210,13 +10210,13 @@
     "location": "Hamburg",
     "remote": false,
     "tags": [
-      "Student",
       "marketing",
-      "Working student",
       "Part time",
-      "brand marketing",
+      "tastings",
       "brand ambassador",
-      "tastings"
+      "Working student",
+      "brand marketing",
+      "Student"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -10250,12 +10250,12 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "TypeScript",
+      "React",
       "Permanent",
-      "Experienced",
+      "TypeScript",
       "AI",
       "Full time",
-      "React"
+      "Experienced"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -10271,16 +10271,16 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "Product Designer",
       "Permanent",
-      "Full or part time",
-      "A/B Testing",
-      "Experienced",
-      "#join",
-      "Data-Driven Design",
       "UX Design",
       "Experimentation",
-      "AI Design"
+      "AI Design",
+      "Data-Driven Design",
+      "#join",
+      "Full or part time",
+      "Product Designer",
+      "A/B Testing",
+      "Experienced"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -10296,8 +10296,8 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "Permanent",
       "Full time",
+      "Permanent",
       "Experienced"
     ],
     "salary_raw": "",
@@ -10314,22 +10314,22 @@
     "location": "Heikendorf (bei Kiel)",
     "remote": false,
     "tags": [
-      "Host",
-      "Koch",
-      "Gästebetreuung",
-      "Start-Up",
-      "Robotics",
-      "Bewirtung",
-      "Hotellerie",
-      "Working student",
-      "Systemgastronomie",
       "Part time",
-      "Engineering",
-      "Foodtech",
-      "Robotik",
-      "Gastronomie",
-      "Kitchen Assistant",
+      "Gästebetreuung",
       "Service",
+      "Host",
+      "Foodtech",
+      "Start-Up",
+      "Hotellerie",
+      "Gastronomie",
+      "Koch",
+      "Systemgastronomie",
+      "Bewirtung",
+      "Robotics",
+      "Kitchen Assistant",
+      "Engineering",
+      "Robotik",
+      "Working student",
       "Entry"
     ],
     "salary_raw": "",
@@ -10346,8 +10346,8 @@
     "location": "Hamburg",
     "remote": false,
     "tags": [
-      "Management",
-      "Team Leader"
+      "Team Leader",
+      "Management"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -10363,8 +10363,8 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "Management",
-      "Team Leader"
+      "Team Leader",
+      "Management"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -10396,8 +10396,8 @@
     "location": "Hamburg",
     "remote": false,
     "tags": [
-      "berufserfahren",
-      "Controlling"
+      "Controlling",
+      "berufserfahren"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -10413,8 +10413,8 @@
     "location": "Stuttgart",
     "remote": false,
     "tags": [
-      "Project Management",
-      "berufserfahren"
+      "berufserfahren",
+      "Project Management"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -10430,10 +10430,10 @@
     "location": "Hamburg",
     "remote": true,
     "tags": [
-      "Freelance",
-      "Remote",
+      "teamleitung",
       "Controlling",
-      "teamleitung"
+      "Freelance",
+      "Remote"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -10467,8 +10467,8 @@
     "remote": true,
     "tags": [
       "Freelance",
-      "Social Media Manager",
-      "Remote"
+      "Remote",
+      "Social Media Manager"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -10484,10 +10484,10 @@
     "location": "Frankfurt am Main",
     "remote": true,
     "tags": [
-      "Remote",
-      "Consulting",
       "professional / experienced",
-      "Engineering"
+      "Remote",
+      "Engineering",
+      "Consulting"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -10503,8 +10503,8 @@
     "location": "Berlin",
     "remote": true,
     "tags": [
-      "Remote",
       "Graphic Arts and Communication Design",
+      "Remote",
       "Internship"
     ],
     "salary_raw": "",
@@ -10522,8 +10522,8 @@
     "remote": true,
     "tags": [
       "Remote",
-      "Consulting",
-      "Engineering"
+      "Engineering",
+      "Consulting"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -10572,8 +10572,8 @@
     "remote": true,
     "tags": [
       "Traineeship",
-      "Software Development",
-      "Remote"
+      "Remote",
+      "Software Development"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -10590,8 +10590,8 @@
     "remote": false,
     "tags": [
       "Contract",
-      "berufserfahren",
-      "HR"
+      "HR",
+      "berufserfahren"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -10802,9 +10802,9 @@
     "location": "Ransbach-Baumbach, Rheinland-Pfalz, Deutschland",
     "remote": false,
     "tags": [
-      "Mid",
+      "fulltime permanent",
       "Vertrieb",
-      "fulltime permanent"
+      "Mid"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -10821,8 +10821,8 @@
     "remote": false,
     "tags": [
       "Manager",
-      "Operational Risk Management/Safety",
-      "fulltime permanent"
+      "fulltime permanent",
+      "Operational Risk Management/Safety"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -10840,9 +10840,9 @@
     "tags": [
       "Health",
       "Headquarter",
-      "Full time",
+      "Marketing",
       "Wellness and Fitness",
-      "Marketing"
+      "Full time"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -10858,8 +10858,8 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "Temporary",
       "Full time",
+      "Temporary",
       "Experienced"
     ],
     "salary_raw": "",
@@ -10876,8 +10876,8 @@
     "location": "Mainz",
     "remote": false,
     "tags": [
-      "Part time",
       "Entry",
+      "Part time",
       "Working student"
     ],
     "salary_raw": "",
@@ -10894,8 +10894,8 @@
     "location": "Mainz",
     "remote": false,
     "tags": [
-      "Permanent",
       "Full time",
+      "Permanent",
       "Experienced"
     ],
     "salary_raw": "",
@@ -10912,9 +10912,9 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "Intern",
+      "Full time",
       "Student",
-      "Full time"
+      "Intern"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -10930,30 +10930,30 @@
     "location": "RYZE Digital Holding GmbH Mainz",
     "remote": false,
     "tags": [
-      "Experienced",
-      "RYZE",
-      "Sale",
-      "Provision",
-      "HubSpot",
-      "Full time",
-      "Electronic Minds",
-      "Digitalagentur",
-      "Verkauf",
-      "Agentur",
       "Kundenkontakt",
-      "Marketing",
-      "Mediaagentur",
-      "Mainz",
-      "Vertrieb",
-      "Kunden",
-      "B2B",
-      "CCR",
-      "Permanent",
+      "Provision",
       "Cross-Selling",
-      "CRM",
       "Beratung",
+      "Electronic Minds",
+      "HubSpot",
+      "Sale",
+      "Permanent",
+      "Akquise",
       "Marketingagentur",
-      "Akquise"
+      "Mainz",
+      "Marketing",
+      "Verkauf",
+      "Vertrieb",
+      "Full time",
+      "Experienced",
+      "Mediaagentur",
+      "Kunden",
+      "Agentur",
+      "CRM",
+      "B2B",
+      "Digitalagentur",
+      "RYZE",
+      "CCR"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -10969,35 +10969,35 @@
     "location": "Leipzig",
     "remote": true,
     "tags": [
-      "München",
-      "Student",
-      "Informatik",
-      "Passau",
-      "OWASP",
-      "ISO27001",
       "Fullstack development",
-      "Berlin",
-      "Leipzig",
-      "Part time",
-      "IT-Security",
+      "Informatik student",
       "Softwarentwicklung",
+      "Cybersecurity",
+      "Computer science",
+      "Kryptographie",
+      "C#",
+      "Secure software development",
+      "OWASP",
+      "Medizininformatik student",
+      "Software engineering",
+      "München",
+      "Security engineering",
+      "Berlin",
+      "Informatik",
+      "remote",
+      "Homeoffice",
+      "Hannover",
+      "IT-Security",
+      "wirtschaftsinformatik student",
+      "ISO27001",
+      ".NET",
+      "Student",
+      "Part time",
+      "Working student",
+      "Passau",
       "Software security",
       "Informationssicherheit",
-      ".NET",
-      "Hannover",
-      "Medizininformatik student",
-      "Kryptographie",
-      "Homeoffice",
-      "wirtschaftsinformatik student",
-      "Computer science",
-      "Cybersecurity",
-      "Informatik student",
-      "Software engineering",
-      "Working student",
-      "Security engineering",
-      "Secure software development",
-      "C#",
-      "remote"
+      "Leipzig"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -11013,34 +11013,34 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "München",
-      "Klinikum",
-      "Student",
-      "Studentenjob",
-      "Arzt",
-      "E-Health",
-      "Berlin",
-      "Leipzig",
-      "Part time",
-      "digitale Medikationsprozesse",
-      "Mediziner",
-      "studentische Hilfskraft",
-      "Hannover",
-      "Healtcare IT",
-      "Werkstudent Pharmazie & Medizin",
       "Gesundheitswesen",
-      "Klinik",
       "Physikum",
-      "IT",
-      "Werkstudent Pharmazie",
-      "Medizininformatik",
-      "Werkstudent Medikationsmanagement",
-      "Intern",
-      "Werkstudent Medizin",
-      "Medizinische Software",
+      "digitale Medikationsprozesse",
+      "Klinikum",
       "Werkstudent Arzneimitteltherapiesicherheit / AMTS",
+      "E-Health",
+      "Werkstudent Medikationsmanagement",
+      "Werkstudent Medizin",
+      "München",
       "Medizinstudierende",
-      "Medikationsmanagement Krankenhaus"
+      "Mediziner",
+      "Medizininformatik",
+      "Werkstudent Pharmazie",
+      "Berlin",
+      "Hannover",
+      "Werkstudent Pharmazie & Medizin",
+      "Medikationsmanagement Krankenhaus",
+      "Klinik",
+      "studentische Hilfskraft",
+      "Medizinische Software",
+      "Student",
+      "Part time",
+      "IT",
+      "Arzt",
+      "Intern",
+      "Healtcare IT",
+      "Studentenjob",
+      "Leipzig"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -11056,26 +11056,26 @@
     "location": "Leipzig",
     "remote": true,
     "tags": [
-      "Student",
-      "gesundheitsökonomie",
-      "hannover",
-      "passau",
-      "Data engineering",
-      "Part time",
-      "leipzig",
-      "student medizininformatik",
-      "Data analytics",
-      "homeoffice",
-      "berlin",
-      "münchen",
       "ehealth",
       "Business intelligence",
+      "student medizininformatik",
+      "homeoffice",
+      "berlin",
+      "hannover",
       "wirtschaftsinformatik student",
-      "digital health",
-      "Working student",
+      "gesundheitsökonomie",
+      "münchen",
       "Data science",
-      "remote",
-      "student data engineering"
+      "passau",
+      "Student",
+      "Data engineering",
+      "leipzig",
+      "digital health",
+      "Part time",
+      "student data engineering",
+      "Data analytics",
+      "Working student",
+      "remote"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -11091,30 +11091,30 @@
     "location": "Leipzig",
     "remote": false,
     "tags": [
-      "Student",
-      "Studentenjob",
-      "Werkstudent Krankenhausinformationssystem",
-      "Werkstudent Healthcare IT",
+      "Gesundheitswesen",
+      "klinische Prozesse",
       "Digitalisierungsprojekte Krankenhaus",
+      "Werkstudent Krankenhausinformationssystem",
+      "Werkstudent Digital Health",
       "E-Health",
       "Werkstudent Medizininformatik",
-      "Berlin",
-      "Leipzig",
-      "Part time",
-      "Healthcare IT",
-      "Werkstudent Digital Health",
-      "studentische Hilfskraft",
-      "Digitalisierung im Gesundheitswesen",
-      "IT-Projektmanagement Gesundheitswesen",
-      "Gesundheitswesen",
       "Medizin",
-      "IT",
-      "klinische Prozesse",
-      "IT-Projekte Gesundheitswesen",
+      "Healthcare IT",
+      "Berlin",
+      "IT-Projektmanagement Gesundheitswesen",
+      "studentische Hilfskraft",
       "Werkstudent Medizininformatik Beratung",
-      "Working student",
       "Medizinische Software",
-      "Werkstudent Consulting Healthcare"
+      "Student",
+      "Werkstudent Consulting Healthcare",
+      "Part time",
+      "IT",
+      "Werkstudent Healthcare IT",
+      "Working student",
+      "Studentenjob",
+      "Leipzig",
+      "Digitalisierung im Gesundheitswesen",
+      "IT-Projekte Gesundheitswesen"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -11130,35 +11130,35 @@
     "location": "München",
     "remote": false,
     "tags": [
-      "München",
-      "HomeOffice",
-      "DRG",
-      "Experienced",
-      "somatik",
-      "Erlösmanagement Krankenhaus",
-      "Full time",
-      "Jobs Krankenhausabrechnung Leipzig",
-      "Kostenträgerkommunikation",
-      "E-Health",
-      "Rehabilitation",
-      "•\tProduktmanager Klinikabrechnung",
-      "Berlin",
-      "Leipzig",
-      "Jobs Medizincontrolling Hannover",
-      "Erlössicherung",
-      "Anforderungsanalyse",
-      "Medizincontrolling",
-      "Hannover",
-      "Healtcare IT",
-      "Patientenabrechnung",
-      "Remote Job Healthcare IT Deutschland",
-      "Reha",
       "Gesundheitswesen",
-      "psychosomatik",
-      "Prozessmanagement",
+      "somatik",
+      "HomeOffice",
+      "Erlössicherung",
       "Permanent",
+      "E-Health",
+      "Kodierung",
+      "München",
+      "•\tProduktmanager Klinikabrechnung",
+      "psychosomatik",
+      "Berlin",
+      "Full time",
+      "Experienced",
+      "Erlösmanagement Krankenhaus",
+      "Hannover",
+      "Jobs Krankenhausabrechnung Leipzig",
+      "Rehabilitation",
+      "Medizincontrolling",
+      "Prozessmanagement",
+      "DRG",
+      "Reha",
+      "Kostenträgerkommunikation",
+      "Remote Job Healthcare IT Deutschland",
+      "Anforderungsanalyse",
+      "Patientenabrechnung",
+      "Jobs Medizincontrolling Hannover",
+      "Healtcare IT",
       "Systemanalyst",
-      "Kodierung"
+      "Leipzig"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -11174,10 +11174,10 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "Permanent",
-      "Experienced",
       "Full time",
-      "join"
+      "join",
+      "Permanent",
+      "Experienced"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -11193,10 +11193,10 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "Permanent",
-      "Experienced",
       "Full time",
-      "join"
+      "join",
+      "Permanent",
+      "Experienced"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -11212,8 +11212,8 @@
     "location": "Mainz",
     "remote": false,
     "tags": [
-      "Permanent",
       "Full time",
+      "Permanent",
       "Experienced"
     ],
     "salary_raw": "",
@@ -11230,8 +11230,8 @@
     "location": "Mainz",
     "remote": false,
     "tags": [
-      "Permanent",
       "Full time",
+      "Permanent",
       "Experienced"
     ],
     "salary_raw": "",
@@ -11284,8 +11284,8 @@
     "location": "München",
     "remote": false,
     "tags": [
-      "Permanent",
       "Full time",
+      "Permanent",
       "Experienced"
     ],
     "salary_raw": "",
@@ -11302,8 +11302,8 @@
     "location": "München",
     "remote": false,
     "tags": [
-      "Permanent",
       "Full time",
+      "Permanent",
       "Experienced"
     ],
     "salary_raw": "",
@@ -11320,8 +11320,8 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "Permanent",
       "Full time",
+      "Permanent",
       "Experienced"
     ],
     "salary_raw": "",
@@ -11338,12 +11338,12 @@
     "location": "Hybrid (München)",
     "remote": false,
     "tags": [
-      "Permanent",
-      "Experienced",
       "GenAI",
-      "Full time",
+      "Permanent",
       "Data Science",
-      "KI"
+      "KI",
+      "Full time",
+      "Experienced"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -11359,8 +11359,8 @@
     "location": "Berlin",
     "remote": false,
     "tags": [
-      "Social Media Manager",
-      "berufserfahren"
+      "berufserfahren",
+      "Social Media Manager"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -11376,8 +11376,8 @@
     "location": "Stuttgart",
     "remote": false,
     "tags": [
-      "Software Development",
-      "berufserfahren"
+      "berufserfahren",
+      "Software Development"
     ],
     "salary_raw": "",
     "salary_min": null,
@@ -11409,10 +11409,10 @@
     "location": "Hamburg",
     "remote": true,
     "tags": [
-      "Social Media Manager",
-      "Remote",
       "hilfstätigkeit / student",
-      "Working student"
+      "Remote",
+      "Working student",
+      "Social Media Manager"
     ],
     "salary_raw": "",
     "salary_min": null,

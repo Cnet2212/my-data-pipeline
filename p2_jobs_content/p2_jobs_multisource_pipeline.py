@@ -9,11 +9,13 @@ logs each change as an event, so the pipeline builds a real history
 instead of silently overwriting the previous snapshot on every run.
 """
 import json
+import sys
 
 from p2_jobs_fetcher import fetch_jobs as fetch_remotive_jobs
 from p2_jobs_arbeitnow_fetcher import fetch_arbeitnow_jobs
 from p2_jobs_normalize import build_unified_dataset
 from p2_jobs_history import compute_history
+from p2_jobs_unified_verify import run_verification
 
 if __name__ == '__main__':
     print('🔎 Fetching Remotive ...')
@@ -59,3 +61,8 @@ if __name__ == '__main__':
     with open('p2_jobs_unified_data.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     print('💾 Saved p2_jobs_unified_data.json')
+
+    passed = run_verification(data)
+    if not passed:
+        print('\n❌ Pipeline completed but verification found issues — see above. Exiting with error status.')
+        sys.exit(1)
