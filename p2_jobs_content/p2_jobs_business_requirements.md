@@ -67,6 +67,8 @@ Remotive official public API (`remotive.com/api/remote-jobs`) — no authenticat
 - [x] Re-running within the cache TTL makes no network calls (verified via log output)
 - [x] A 5th same-day Remotive call is refused and falls back to cache instead of erroring
 - [x] Editing/removing a posting in the cached source data is correctly reflected as "updated"/"removed" in the next diff (verified via manual cache-edit test)
+- [x] Description fields contain no raw HTML markup — verified automatically by `p2_jobs_unified_verify.py` on every run (this required a real fix: the cleaning function existed but was not wired into the pipeline on first implementation — caught by asking "has this actually been verified?" before assuming done)
+- [x] `python p2_jobs_multisource_pipeline.py` runs fetch through verification as a single command, exiting non-zero if verification fails
 
 ### Known Limitations (documented, not hidden)
 - Salary parsing succeeds for a small minority of records (~1% in testing) — most real postings simply don't publish a machine-parseable salary, which is realistic, not a defect
