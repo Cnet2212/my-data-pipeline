@@ -33,15 +33,23 @@ class UnifiedJob(BaseModel):
     salary_max: float | None = None
     url: str
     posted_at: str
+    description: str = ''
 
 
 def clean_html(raw: str) -> str:
     """Strip HTML tags and unescape entities — Arbeitnow's description
-    field arrives as raw HTML (<p>, <ul>, &#x26; for &, etc.)."""
+    field arrives as raw HTML (<p>, <ul>, &#x26; for &, etc.).
+
+    Order matters here: unescape FIRST, then strip tags. Some source
+    content is double-encoded (tags written as literal &lt;p&gt; rather
+    than <p>) — stripping tags before unescaping misses those entirely
+    (they don't look like tags yet), and they only "become" real tags
+    after unescaping, by which point the strip pass has already run.
+    Unescaping first means any newly-revealed tags still get caught."""
     if not raw:
         return ''
-    text = HTML_TAG_RE.sub(' ', raw)
-    text = html.unescape(text)
+    text = html.unescape(raw)
+    text = HTML_TAG_RE.sub(' ', text)
     return re.sub(r'\s+', ' ', text).strip()
 
 
@@ -87,6 +95,7 @@ def normalize_remotive(job: dict) -> dict:
         'salary_max': salary_max,
         'url': job.get('url', ''),
         'posted_at': job.get('published_at', ''),
+        'description': clean_html(job.get('description', '')),
     }
 
 
@@ -109,6 +118,50 @@ def normalize_arbeitnow(job: dict) -> dict:
         'salary_max': None,
         'url': job.get('url', ''),
         'posted_at': posted_at,
+        'description': clean_html(job.get('description', '')),
+    }
+
+
+def _safe_float(value) -> float | None:
+    try:
+        return float(value) if value not in (None, '', '0') else None
+    except (TypeError, ValueError):
+        return None
+
+
+def normalize_remoteok(job: dict) -> dict:
+    return {
+        'source': 'remoteok',
+        'source_id': str(job.get('id', '')),
+        'title': job.get('position', ''),
+        'company': job.get('company', 'Unknown'),
+        'location': job.get('location') or 'Worldwide',
+        'remote': True,  # RemoteOK is remote-only by definition
+        'tags': job.get('tags') or [],
+        'salary_raw': '',
+        'salary_min': _safe_float(job.get('salary_min')),
+        'salary_max': _safe_float(job.get('salary_max')),
+        'url': job.get('url') or f"https://remoteok.com/remote-jobs/{job.get('id', '')}",
+        'posted_at': job.get('date', ''),
+        'description': clean_html(job.get('description', '')),
+    }
+
+
+def normalize_wwr(job: dict) -> dict:
+    return {
+        'source': 'weworkremotely',
+        'source_id': job.get('guid', '') or job.get('link', ''),
+        'title': job.get('position', ''),
+        'company': job.get('company', 'Unknown'),
+        'location': job.get('region') or 'Worldwide',
+        'remote': True,  # We Work Remotely is a remote-only job board by definition
+        'tags': [job['category']] if job.get('category') else [],
+        'salary_raw': '',
+        'salary_min': None,
+        'salary_max': None,
+        'url': job.get('link', ''),
+        'posted_at': job.get('pub_date', ''),
+        'description': clean_html(job.get('description', '')),
     }
 
 
@@ -156,16 +209,22 @@ def fuzzy_dedupe(records: list[dict]) -> tuple[list[dict], int]:
     return kept, removed
 
 
-def build_unified_dataset(remotive_jobs: list[dict], arbeitnow_raw_jobs: list[dict]) -> tuple[list[dict], list[str]]:
-    normalized = [normalize_remotive(j) for j in remotive_jobs]
-    normalized += [normalize_arbeitnow(j) for j in arbeitnow_raw_jobs]
+def build_unified_dataset(*source_job_lists: list[dict]) -> tuple[list[dict], list[str]]:
+    """Accepts any number of already-normalized record lists (one per
+    source) — e.g. build_unified_dataset(remotive_normalized, arbeitnow_normalized,
+    remoteok_normalized, wwr_normalized). Adding a 5th source later means
+    adding one more argument here, not rewriting this function."""
+    normalized: list[dict] = []
+    for job_list in source_job_lists:
+        normalized.extend(job_list)
 
     deduped, removed_count = fuzzy_dedupe(normalized)
-    max_possible_cross_source_dupes = min(len(remotive_jobs), len(arbeitnow_raw_jobs))
+    source_sizes = [len(jl) for jl in source_job_lists if jl]
+    max_possible_cross_source_dupes = sum(source_sizes) - max(source_sizes) if source_sizes else 0
     if removed_count > max_possible_cross_source_dupes:
-        print(f'⚠️ Sanity check failed: removed {removed_count} "duplicates" but the smaller '
-              f'source only has {max_possible_cross_source_dupes} records — this points to a bug '
-              f'in dedupe logic, not real cross-source duplicates. Investigate before trusting this run.')
+        print(f'⚠️ Sanity check failed: removed {removed_count} "duplicates" but the theoretical '
+              f'max cross-source duplicates is {max_possible_cross_source_dupes} — this points to a '
+              f'bug in dedupe logic, not real cross-source duplicates. Investigate before trusting this run.')
     print(f'🔗 Deduplication: {len(normalized)} normalized records -> {len(deduped)} unique ({removed_count} cross-source duplicates removed)')
 
     # Hard dedupe on the exact (source, source_id) key — offset-based pagination

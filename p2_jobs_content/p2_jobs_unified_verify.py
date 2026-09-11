@@ -15,6 +15,8 @@ import httpx
 
 REMOTIVE_API_URL = 'https://remotive.com/api/remote-jobs'
 ARBEITNOW_API_URL = 'https://www.arbeitnow.com/api/job-board-api'
+REMOTEOK_API_URL = 'https://remoteok.com/api'
+WWR_RSS_URL = 'https://weworkremotely.com/remote-jobs.rss'
 SAMPLE_SIZE_PER_SOURCE = 5
 HTML_TAG_RE = re.compile(r'<[a-zA-Z/][^>]*>')  # a simple "does this look like a tag" check
 
@@ -41,7 +43,7 @@ def check_structural_invariants(records: list[dict]) -> list[str]:
         else:
             print(f'✅ No empty "{field}"')
 
-    valid_sources = {'remotive', 'arbeitnow'}
+    valid_sources = {'remotive', 'arbeitnow', 'remoteok', 'weworkremotely'}
     bad_sources = [r for r in records if r.get('source') not in valid_sources]
     if bad_sources:
         failures.append(f'{len(bad_sources)} records with unrecognized source value')
@@ -125,6 +127,59 @@ def check_arbeitnow_sample(records: list[dict]) -> list[str]:
     return failures
 
 
+def check_remoteok_sample(records: list[dict]) -> list[str]:
+    remoteok_records = [r for r in records if r['source'] == 'remoteok']
+    if not remoteok_records:
+        return []
+    print(f'\n--- Cross-checking {min(SAMPLE_SIZE_PER_SOURCE, len(remoteok_records))} RemoteOK records ---')
+    failures = []
+    with httpx.Client(timeout=15) as client:
+        resp = client.get(REMOTEOK_API_URL, headers={'User-Agent': 'portfolio-demo-verify'})
+        resp.raise_for_status()
+        live_by_id = {str(j['id']): j for j in resp.json() if 'id' in j}
+
+    sample = random.sample(remoteok_records, min(SAMPLE_SIZE_PER_SOURCE, len(remoteok_records)))
+    for record in sample:
+        live = live_by_id.get(record['source_id'])
+        if live is None:
+            print(f"   ℹ️  source_id={record['source_id']}: not in current live listing (expected — postings rotate)")
+            continue
+        if live.get('position') != record['title']:
+            failures.append(f"remoteok/{record['source_id']}: title mismatch")
+        else:
+            print(f"✅ remoteok/{record['source_id']}: title matches live source")
+    return failures
+
+
+def check_wwr_sample(records: list[dict]) -> list[str]:
+    wwr_records = [r for r in records if r['source'] == 'weworkremotely']
+    if not wwr_records:
+        return []
+    print(f'\n--- Cross-checking {min(SAMPLE_SIZE_PER_SOURCE, len(wwr_records))} We Work Remotely records ---')
+    failures = []
+    import xml.etree.ElementTree as ET
+    with httpx.Client(timeout=15) as client:
+        resp = client.get(WWR_RSS_URL, headers={'User-Agent': 'portfolio-demo-verify'})
+        resp.raise_for_status()
+        root = ET.fromstring(resp.text)
+        live_by_guid = {}
+        for item in root.findall('.//item'):
+            guid = item.findtext('guid') or item.findtext('link') or ''
+            live_by_guid[guid] = (item.findtext('title') or '').strip()
+
+    sample = random.sample(wwr_records, min(SAMPLE_SIZE_PER_SOURCE, len(wwr_records)))
+    for record in sample:
+        live_title = live_by_guid.get(record['source_id'])
+        if live_title is None:
+            print(f"   ℹ️  source_id={record['source_id']}: not in current live feed (expected — feed rotates)")
+            continue
+        if record['title'] not in live_title:
+            failures.append(f"weworkremotely/{record['source_id']}: title mismatch")
+        else:
+            print(f"✅ weworkremotely/{record['source_id']}: title matches live source")
+    return failures
+
+
 def run_verification(data: list[dict]) -> bool:
     """Runs all checks against an in-memory dataset (no file re-read) and
     returns True if everything passed. Importable so a pipeline script can
@@ -135,6 +190,8 @@ def run_verification(data: list[dict]) -> bool:
     all_failures += check_structural_invariants(data)
     all_failures += check_remotive_sample(data)
     all_failures += check_arbeitnow_sample(data)
+    all_failures += check_remoteok_sample(data)
+    all_failures += check_wwr_sample(data)
 
     print('\n=== Verification Summary ===')
     if all_failures:

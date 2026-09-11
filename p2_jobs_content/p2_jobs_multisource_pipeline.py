@@ -2,31 +2,53 @@
 Project 2 (escalated): multi-source job aggregation pipeline with
 historical tracking.
 
-Pulls from two independent job APIs (Remotive + Arbeitnow), normalizes
-schemas, fuzzy-dedupes across sources, then diffs the result against
-previously stored state to detect new/updated/removed postings — and
-logs each change as an event, so the pipeline builds a real history
-instead of silently overwriting the previous snapshot on every run.
+Pulls from four independent job sources (Remotive, Arbeitnow, RemoteOK,
+We Work Remotely), normalizes schemas, fuzzy-dedupes across sources,
+then diffs the result against previously stored state to detect
+new/updated/removed postings — and logs each change as an event, so the
+pipeline builds a real history instead of silently overwriting the
+previous snapshot on every run.
 """
 import json
 import sys
 
 from p2_jobs_fetcher import fetch_jobs as fetch_remotive_jobs
 from p2_jobs_arbeitnow_fetcher import fetch_arbeitnow_jobs
-from p2_jobs_normalize import build_unified_dataset
+from p2_jobs_remoteok_fetcher import fetch_remoteok_jobs
+from p2_jobs_wwr_fetcher import fetch_wwr_jobs
+from p2_jobs_normalize import (
+    build_unified_dataset, normalize_remotive, normalize_arbeitnow,
+    normalize_remoteok, normalize_wwr,
+)
 from p2_jobs_history import compute_history
 from p2_jobs_unified_verify import run_verification
 
 if __name__ == '__main__':
     print('🔎 Fetching Remotive ...')
-    remotive_jobs = fetch_remotive_jobs()
-    print(f'   -> {len(remotive_jobs)} Remotive jobs')
+    remotive_raw = fetch_remotive_jobs()
+    print(f'   -> {len(remotive_raw)} Remotive jobs')
 
     print('🔎 Fetching Arbeitnow ...')
-    arbeitnow_jobs = fetch_arbeitnow_jobs()
-    print(f'   -> {len(arbeitnow_jobs)} Arbeitnow jobs')
+    arbeitnow_raw = fetch_arbeitnow_jobs()
+    print(f'   -> {len(arbeitnow_raw)} Arbeitnow jobs')
 
-    data, errors = build_unified_dataset(remotive_jobs, arbeitnow_jobs)
+    print('🔎 Fetching RemoteOK ...')
+    remoteok_raw = fetch_remoteok_jobs()
+    print(f'   -> {len(remoteok_raw)} RemoteOK jobs')
+
+    print('🔎 Fetching We Work Remotely ...')
+    wwr_raw = fetch_wwr_jobs()
+    print(f'   -> {len(wwr_raw)} We Work Remotely jobs')
+
+    # fetch_remotive_jobs() already returns validated/normalized-ish JobItem
+    # dicts (not raw API records), so it's passed through normalize_remotive
+    # the same as the others for a consistent shape into build_unified_dataset.
+    data, errors = build_unified_dataset(
+        [normalize_remotive(j) for j in remotive_raw],
+        [normalize_arbeitnow(j) for j in arbeitnow_raw],
+        [normalize_remoteok(j) for j in remoteok_raw],
+        [normalize_wwr(j) for j in wwr_raw],
+    )
     for err in errors:
         print(f'⚠️ {err}')
     print(f'✅ Unified dataset: {len(data)} validated records.')

@@ -34,7 +34,11 @@ def load_data() -> pd.DataFrame:
 df = load_data()
 
 st.title('💼 Multi-Source Job Aggregation Pipeline')
-st.markdown('_Sources: [Remotive](https://remotive.com) + [Arbeitnow](https://www.arbeitnow.com) — normalized, deduplicated, and tracked over time_')
+st.markdown(
+    '_Sources: [Remotive](https://remotive.com) · [Arbeitnow](https://www.arbeitnow.com) · '
+    '[RemoteOK](https://remoteok.com) · [We Work Remotely](https://weworkremotely.com) — '
+    'normalized, deduplicated, and tracked over time_'
+)
 
 if df.empty:
     st.info('No data yet. Run `python p2_jobs_multisource_pipeline.py` first.')
